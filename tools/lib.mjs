@@ -177,6 +177,7 @@ export function drawer() {
   }).join('');
 
   return `
+<div class="drawer-root">
 <div class="drawer-backdrop"></div>
 <aside class="mobile-drawer" id="mobileDrawer" aria-label="Mobile menu">
   <div class="drawer-head">
@@ -191,7 +192,8 @@ export function drawer() {
       <a href="mailto:${COMPANY.email}" style="display:flex;gap:.5rem;align-items:center">${icon('mail')}${COMPANY.email}</a>
     </div>
   </div>
-</aside>`;
+</aside>
+</div>`;
 }
 
 /* ---------- Footer ---------- */
