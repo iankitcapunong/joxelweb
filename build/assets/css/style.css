@@ -213,11 +213,11 @@ strong { color: var(--ink); font-weight: 600; }
 .brand img { height: 42px; width: auto; transition: transform .4s var(--ease-out); }
 .brand:hover img { transform: scale(1.04); }
 
-.nav-menu { display: flex; align-items: center; gap: .2rem; }
+.nav-menu { display: flex; align-items: center; gap: .1rem; }
 .nav-item { position: relative; }
 .nav-link {
-  display: inline-flex; align-items: center; gap: .35rem;
-  padding: .7rem .95rem; font-weight: 500; font-size: .95rem; color: var(--ink);
+  display: inline-flex; align-items: center; gap: .3rem; white-space: nowrap;
+  padding: .7rem .72rem; font-weight: 500; font-size: .92rem; color: var(--ink);
   border-radius: var(--r-pill); transition: color .25s, background .25s;
 }
 .nav-link .caret { width: 12px; height: 12px; transition: transform .3s var(--ease-out); opacity: .6; }
@@ -296,7 +296,7 @@ body.menu-open .hamburger span:nth-child(1) { transform: translateY(8px) rotate(
 body.menu-open .hamburger span:nth-child(2) { opacity: 0; }
 body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate(-45deg); }
 
-@media (max-width: 1080px) {
+@media (max-width: 1180px) {
   .nav-menu, .nav-cta .btn { display: none; }
   .nav-toggle { display: inline-flex; align-items: center; justify-content: center; width: 46px; height: 46px; border-radius: var(--r-sm); background: var(--cream-2); }
 }

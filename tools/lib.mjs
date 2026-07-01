@@ -46,6 +46,7 @@ export const NAV = [
       { label: 'Outsourcing Support', slug: 'outsourcing-support' },
     ],
   },
+  { label: 'Locations', slug: 'locations' },
   { label: 'Blog', slug: 'blog' },
   {
     label: 'About Us', slug: 'about-us',
@@ -199,11 +200,12 @@ export function footer() {
     `<div class="footer-col"><h5>${title}</h5><ul>${links.map(l => `<li><a href="${url(l.slug)}">${esc(l.label)}</a></li>`).join('')}</ul></div>`;
 
   const services = [
-    { label: 'Healthcare Consulting', slug: 'healthcare-consulting' },
-    { label: 'Strategic Consulting', slug: 'strategic-consulting' },
-    { label: 'Strategic Services', slug: 'strategic-services' },
+    { label: 'EHR Consulting', slug: 'ehr-consulting' },
     { label: 'Revenue Cycle Management', slug: 'revenue-cycle-management' },
-    { label: 'Office of the CIO', slug: 'office-of-the-cio' },
+    { label: 'AI Strategy', slug: 'ai-strategy' },
+    { label: 'Healthcare Consulting', slug: 'healthcare-consulting' },
+    { label: 'Strategic Services', slug: 'strategic-services' },
+    { label: 'Locations', slug: 'locations' },
   ];
   const company = [
     { label: 'About Us', slug: 'about-us' },

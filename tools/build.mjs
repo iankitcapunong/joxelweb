@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { COMPANY, SOCIAL, NAV, esc, url, icon, layout } from './lib.mjs';
+import { pseoBuild } from './pseo.mjs';
 
 const ALL = JSON.parse(fs.readFileSync('content/_all.json', 'utf8'));
 const DATA = JSON.parse(fs.readFileSync('content/data.json', 'utf8'));
@@ -752,6 +753,9 @@ build['partnerships'] = pages['partnerships'];
 build['blog'] = pages['blog'];
 build['terms-of-use'] = () => legalPage('terms-of-use', 'Terms of Use');
 build['privacy-policy'] = () => legalPage('privacy-policy', 'Privacy Policy');
+
+/* Programmatic SEO: location pages, service hubs, locations index */
+Object.assign(build, pseoBuild());
 
 /* clean + prepare output */
 fs.rmSync(OUT, { recursive: true, force: true });
