@@ -350,31 +350,31 @@
   },
   "clientLogos": [
     {
-      "src": "assets/img/Brown-County.jpg",
+      "src": "assets/img/Brown-County-tp.png",
       "alt": "Brown County"
     },
     {
-      "src": "assets/img/Fond-du-Lac-Logo.jpg",
+      "src": "assets/img/Fond-du-Lac-Logo-tp.png",
       "alt": "Fond du Lac County"
     },
     {
-      "src": "assets/img/LSS-Logo-1.jpg",
+      "src": "assets/img/LSS-Logo-1-tp.png",
       "alt": "Lutheran Social Services"
     },
     {
-      "src": "assets/img/MC-Logo.jpg",
+      "src": "assets/img/MC-Logo-tp.png",
       "alt": "Milwaukee County"
     },
     {
-      "src": "assets/img/Sauk-County-Logo.png",
+      "src": "assets/img/Sauk-County-Logo-tp.png",
       "alt": "Sauk County"
     },
     {
-      "src": "assets/img/Sauk-County-Logo.png",
+      "src": "assets/img/Sauk-County-Logo-tp.png",
       "alt": "Sauk County"
     },
     {
-      "src": "assets/img/WC-Logo-1.png",
+      "src": "assets/img/WC-Logo-1-tp.png",
       "alt": "Waukesha County"
     }
   ]
