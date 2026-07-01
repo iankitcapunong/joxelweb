@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "neel-eswara",
+    "name": "Neel Eswara",
+    "role": "Director, Technology",
+    "img": "assets/img/Neel-240x300.jpg",
+    "bio": [
+      "Neel has over 15 years of experience working in traditional as well as agile application development environments in both the pension and insurance industries. Currently, he leads the pension practice with over eight years of experience on system implementation and co-development team management. Prior to joining Joxel, Neel worked as a consultant at Pacific Life, Ace Insurance, and New York State Commission."
+    ]
+  },
+  {
+    "slug": "nicki-maslanka",
+    "name": "Nicki Maslanka",
+    "role": "Director, Revenue Cycle Management",
+    "img": "assets/img/Nicki-260x300.jpg",
+    "bio": [
+      "Nicki has over 18 years of experience working in the financial environment, with over 10 years experience focused in the behavioral health industry. She is extremely proficient in the configuration and implementation of the financial modules of Netsmart’s Avatar and CMHC systems. She is also well versed in Billing (837I/P, 835), Medicaid regulations, and revenue cycle management. Prior to joining The Joxel Group, Nicki worked as a Billing and AR Supervisor for a behavioral health agency."
+    ]
+  },
+  {
+    "slug": "zubair-dhala",
+    "name": "Zubair Dhala",
+    "role": "Chief Technology Officer",
+    "img": "assets/img/2019-12-15_01.35.29-290x300.jpg",
+    "bio": [
+      "Zubair has over ten years of management consulting experience working exclusively in the healthcare business. He has worked on the planning, analysis, and implementation of EHR systems for multiples clients in the crisis, inpatient, outpatient, and managed care settings. He has also implemented:",
+      "Currently, Zubair manages a team of technical analysts across multiple client engagements."
+    ]
+  },
+  {
+    "slug": "mica-yurk",
+    "name": "Mica Yurk",
+    "role": "Vice President, Consulting Service",
+    "img": "assets/img/Mica-205x300.png",
+    "bio": [
+      "Mica has nine years of experience in the healthcare industry, with the past six years focused on implementing multiple EHR solutions in large health care organizations in the Milwaukee and Fox Valley areas. Mica excels in superior Project Management, Process Management and Change Management skills. Prior to joining Joxel, Mica brilliantly delivered 11 successful projects as an IT Project Manager at Agnesian HealthCare."
+    ]
+  },
+  {
+    "slug": "lisa-gillen",
+    "name": "Lisa Gillen",
+    "role": "Director, Healthcare Solutions",
+    "img": "assets/img/LG_20200927_144004-2-180x300.jpg",
+    "bio": [
+      "Lisa has over 25 years of management consulting experience working in the healthcare environment, with over 20 years experience focused in the behavioral health industry. She is extremely proficient in the configuration and implementation of the clinical, financial, and service authorization modules of Netsmart’s Avatar system. Prior to joining The Joxel Group, Lisa worked in various leadership roles at Accenture."
+    ]
+  },
+  {
+    "slug": "susan-hutton",
+    "name": "Susan Hutton",
+    "role": "Corporate Legal Counsel",
+    "img": "assets/img/Hutton-Susan-240x300.jpg",
+    "bio": [
+      "Susan has over 30 years of experience assisting clients with their legal needs and limits her practice involvement to tax, healthcare, and corporate matters. She has been involved with The Joxel Group since its inception and works very closely with the executives on the corporate tax structure and with mergers and acquisitions."
+    ]
+  },
+  {
+    "slug": "nan-pilllai",
+    "name": "Nan Pillai",
+    "role": "Chief Operating Officer",
+    "img": "assets/img/NAN_270_310-261x300.jpg",
+    "bio": [
+      "Nan has over 20 years of management consulting experience working in the financial services, healthcare, and high-tech software development industries. Over the years, she has worked as a project manager, subject matter expert for customer relationship management software, and technical consultant for various software development projects. Currently, Nan is responsible for the administrative operations for Joxel, including HR, Payroll, Benefits, and IT needs within the company. Prior to joining Joxel, Nan has worked at Cuna Mutual Group, Health Risk Management, and Vestica Healthcare."
+    ]
+  },
+  {
+    "slug": "sushil-pillai",
+    "name": "Sushil Pillai",
+    "role": "President and CEO",
+    "img": "assets/img/SUSHIL_270_310-261x300.jpg",
+    "bio": [
+      "Sushil has over 25 years of management consulting experience working in the healthcare and pension industries. Over the years, he has worked on multiple EMR and pension system implementations, process re-engineering, change management, and analytical model creations to allow clients to gain insight in their business. Prior to starting The Joxel Group, Sushil was an executive at Whittman-Hart, Ernst & Young, and Saber Corporation, which was eventually acquired by HP."
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "joxel-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "node tools/extract.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

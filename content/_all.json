@@ -1,0 +1,1700 @@
+{
+  "home": {
+    "slug": "home",
+    "path": "/",
+    "title": "The Joxel Group, LLC -",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "img",
+        "src": "/wp-content/uploads/joxel_logo_rgb_transparent_lowres-1.png",
+        "alt": ""
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Home",
+          "Healthcare Consulting EHR Selection EHR Implementations EHR Optimization Avatar Consulting Evolv Consulting Project Management",
+          "Strategic Consulting Office of the CIO Revenue Cycle Management",
+          "Strategic Services Custom Solutions EHR Configuration Outsourcing Support",
+          "Blog",
+          "About Us Our Leaders Joxel 365 Contact Us Client Testimonials Partnerships"
+        ]
+      },
+      {
+        "type": "img",
+        "src": "/wp-content/uploads/PEOPLE.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "/wp-content/uploads/Strategic_Consulting_B.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "/wp-content/uploads/Strategic_Servicers.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "/wp-content/uploads/About_Us.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Ideas Insights Solutions"
+      },
+      {
+        "type": "h3",
+        "text": "HEALTHCARE CONSULTING"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "healthcare-consulting"
+      },
+      {
+        "type": "h2",
+        "text": "Ideas Insights Solutions"
+      },
+      {
+        "type": "h3",
+        "text": "Strategic Consulting"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "strategic-consulting"
+      },
+      {
+        "type": "h2",
+        "text": "Ideas Insights Solutions"
+      },
+      {
+        "type": "h3",
+        "text": "Strategic Services"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "strategic-services"
+      },
+      {
+        "type": "h2",
+        "text": "Ideas Insights Solutions"
+      },
+      {
+        "type": "h3",
+        "text": "About Us"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "about-us"
+      },
+      {
+        "type": "h2",
+        "text": "The Joxel Group"
+      },
+      {
+        "type": "p",
+        "text": "The Joxel Group, LLC is a business consulting and development firm with expertise in the health care and pension industries. Collectively, Joxel has over 20 years of experience that supports our firms commitment to innovate, improve and deliver high quality results to our clients. Our company was founded in 2006 by Sushil and Nan Pillai with the intent to create a business consulting and development firm that was industry-specific and focused on enhancing the client’s goals and increasing their business..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/the-joxel-group/"
+      },
+      {
+        "type": "h4",
+        "text": "Healthcare Consulting"
+      },
+      {
+        "type": "p",
+        "text": "Joxel's Healthcare consultants have expertise in IT and healthcare. Our experts are often brought into organizations to examine and address"
+      },
+      {
+        "type": "h4",
+        "text": "Strategic Consulting"
+      },
+      {
+        "type": "p",
+        "text": "As the healthcare industry grows increasingly complex, organizations are seeking outsourced solutions to help balance their strategic priorities and day-to-day"
+      },
+      {
+        "type": "h4",
+        "text": "Strategic Services"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we are continuously looking for solutions to meet our clients' needs and provide quality solutions. Joxel can provide"
+      },
+      {
+        "type": "h2",
+        "text": "Client Testimonials"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Vista Del Mar Child and Family Services Brent Cohen, Project Manager, Vista Del Mar Child and Family Services Working directly with Mica Yurk, Joxel's Vice President of Consulting Services, has been an exceptional experience for our organization. Her extensive knowledge, unique expertise and ability to provide a comprehensive background on various aspects of our project have been invaluable. Mica has successfully delivered strategic and tactical guidance, significantly enhancing our operations. Joxel's contributions have improved our systems and enhanced our ability to fulfill our...",
+          "CATCH, Inc Megan Cudmore, EHR Data Optimization Analyst Our partnership with The Joxel Group has been exceptional. Beyond providing technical assistance whenever needed, they excel in creatively problem-solving myEvolv issues with our team. What stands out is their dedication to empowering our team. They not only fix problems but also teach and mentor our administrators, enhancing our internal capacity for handling similar challenges in the future. We appreciate their dedication to our success.",
+          "Hope Services Sujan Vatturi, Chief Information Officer \"The Joxel Team has been instrumental in solving complex system and business problems with our Electronic Health Record system. They bring a high level of technical and business expertise to the table which helps resolve complex challenges and meet tight deadlines. Their biggest asset is the ability to be nimble and execute to a high-quality standard.\"",
+          "Waukesha County Department of Health and Human Services Donn Hoffmann, PMO and Public Safety Systems Manager and Sandra Masker, Business Application Administrator The Joxel Group has proven themselves as a valuable IT consulting partner to Waukesha County Government and a key partner of the Health and Human Services Department. We recognize that the understanding of the customer needs is integral to our continued success, and The Joxel Group has done a great job of going the extra mile to thoroughly understand our culture, business requirements and the...",
+          "Lutheran Social Services of Wisconsin & Upper Michigan, Inc Michelle Naples, Chief Integration Officer The Joxel Group is a trusted advisor and strategic partner to LSS. Our partnership started with Joxel conducting an IT assessment and evolved into helping us implement key assessment recommendations relating to IT governance, standardization of processes, and enhanced utilization of our Electronic Health Record. Joxel knows what it takes to effectively implement change through focusing on people, processes, and systems. They bring expertise, innovation,...",
+          "Sauk County Department of Human Services Stephanie Box, Business and Administrative Services Manager Sauk County DHS has utilized Joxel’s expertise in a variety of ways. From providing a systems health check, to implementing the treatment plan to training of staff and writing reports. Joxel listens to the needs of the agency and staff and delivers an end product that reflects that. Joxel is easy to work with and is available even after the project is done. Our agency...",
+          "Sauk County Department of Human Services Penny Janechek, Data System Paraprofessional I can’t express my appreciation enough for the training I received through Joxel. The staff has a high level of knowledge and experience working in MyAvatar. As a new user, I felt at each session I received training at a level I could learn from and most importantly retain. I was provided with excellent training documents and tools created by Joxel that have been useful...",
+          "Milwaukee County Employees’ Retirement System Erika Bronikowski, RPS Director We have been working with Joxel for over a decade and it has been a pleasure working with them. They have consistently provided high-quality, timely work which has allowed our team to make incredible progress on our major IT projects. We truly value the partnership we have with the Joxel team and have been pleased with their flexibility and commitment to our needs.",
+          "Interested in submitting a client testimonial? Joxel loves hearing from their clients! If you would like to submit a testimonial, please email your request to info@thejoxelgroup.com.",
+          "Brown County, Wisconsin Lisa Sperbeck, Systems Analyst Since 2015, I‘ve worked with the Joxel Group, LCC. They were instrumental in our implementation of myAvatar, and provided invaluable assistance with Revenue Cycle Management and custom report writing. Joxel resources actually listen and take the time to fully understand the project's complexity and help figure out the customer’s root needs. They’ve provided quality leadership, support and project management knowledge at all times, and have..."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Best Places to Work 2020"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/MBJ_BPTW.jpg",
+        "alt": "Best Places to work"
+      },
+      {
+        "type": "h2",
+        "text": "Latest Posts"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/themes/skt-condimentum-pro/images/img_404.png",
+        "alt": ""
+      },
+      {
+        "type": "h4",
+        "text": "Celebrating Success: Client Testimonial from Hope Services"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we pride ourselves on our commitment to excellence and client satisfaction. It..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/celebrating-success-client-testimonial-from-hope-services/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/themes/skt-condimentum-pro/images/img_404.png",
+        "alt": ""
+      },
+      {
+        "type": "h4",
+        "text": "Joxel Spotlight – Kue Yang"
+      },
+      {
+        "type": "p",
+        "text": "Kue Yang is a Project Coordinator, and the newest member of our Joxel Family...."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/joxel-spotlight-kue-yang/"
+      },
+      {
+        "type": "button",
+        "text": "View All Posts",
+        "href": "https://thejoxelgroup.com/blog/"
+      },
+      {
+        "type": "h2",
+        "text": "Client Testimonials"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Vista Del Mar Child and Family Services Brent Cohen, Project Manager, Vista Del Mar Child and Family Services Working directly with Mica Yurk, Joxel's Vice President of Consulting Services, has been an exceptional experience for our organization. Her extensive knowledge, unique expertise and ability to provide a comprehensive background on various aspects of our project have been invaluable. Mica has successfully delivered strategic and tactical guidance, significantly enhancing our operations. Joxel's contributions have improved our systems and enhanced our ability to fulfill our...",
+          "CATCH, Inc Megan Cudmore, EHR Data Optimization Analyst Our partnership with The Joxel Group has been exceptional. Beyond providing technical assistance whenever needed, they excel in creatively problem-solving myEvolv issues with our team. What stands out is their dedication to empowering our team. They not only fix problems but also teach and mentor our administrators, enhancing our internal capacity for handling similar challenges in the future. We appreciate their dedication to our success.",
+          "Hope Services Sujan Vatturi, Chief Information Officer \"The Joxel Team has been instrumental in solving complex system and business problems with our Electronic Health Record system. They bring a high level of technical and business expertise to the table which helps resolve complex challenges and meet tight deadlines. Their biggest asset is the ability to be nimble and execute to a high-quality standard.\"",
+          "Waukesha County Department of Health and Human Services Donn Hoffmann, PMO and Public Safety Systems Manager and Sandra Masker, Business Application Administrator The Joxel Group has proven themselves as a valuable IT consulting partner to Waukesha County Government and a key partner of the Health and Human Services Department. We recognize that the understanding of the customer needs is integral to our continued success, and The Joxel Group has done a great job of going the extra mile to thoroughly understand our culture, business requirements and the...",
+          "Lutheran Social Services of Wisconsin & Upper Michigan, Inc Michelle Naples, Chief Integration Officer The Joxel Group is a trusted advisor and strategic partner to LSS. Our partnership started with Joxel conducting an IT assessment and evolved into helping us implement key assessment recommendations relating to IT governance, standardization of processes, and enhanced utilization of our Electronic Health Record. Joxel knows what it takes to effectively implement change through focusing on people, processes, and systems. They bring expertise, innovation,...",
+          "Sauk County Department of Human Services Stephanie Box, Business and Administrative Services Manager Sauk County DHS has utilized Joxel’s expertise in a variety of ways. From providing a systems health check, to implementing the treatment plan to training of staff and writing reports. Joxel listens to the needs of the agency and staff and delivers an end product that reflects that. Joxel is easy to work with and is available even after the project is done. Our agency...",
+          "Sauk County Department of Human Services Penny Janechek, Data System Paraprofessional I can’t express my appreciation enough for the training I received through Joxel. The staff has a high level of knowledge and experience working in MyAvatar. As a new user, I felt at each session I received training at a level I could learn from and most importantly retain. I was provided with excellent training documents and tools created by Joxel that have been useful...",
+          "Milwaukee County Employees’ Retirement System Erika Bronikowski, RPS Director We have been working with Joxel for over a decade and it has been a pleasure working with them. They have consistently provided high-quality, timely work which has allowed our team to make incredible progress on our major IT projects. We truly value the partnership we have with the Joxel team and have been pleased with their flexibility and commitment to our needs.",
+          "Interested in submitting a client testimonial? Joxel loves hearing from their clients! If you would like to submit a testimonial, please email your request to info@thejoxelgroup.com.",
+          "Brown County, Wisconsin Lisa Sperbeck, Systems Analyst Since 2015, I‘ve worked with the Joxel Group, LCC. They were instrumental in our implementation of myAvatar, and provided invaluable assistance with Revenue Cycle Management and custom report writing. Joxel resources actually listen and take the time to fully understand the project's complexity and help figure out the customer’s root needs. They’ve provided quality leadership, support and project management knowledge at all times, and have..."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Menu"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Home",
+          "Healthcare Consulting",
+          "Strategic Services",
+          "Strategic Consulting",
+          "About Us"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Recent Posts"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Celebrating Success: Client Testimonial from Hope Services",
+          "Joxel Spotlight – Kue Yang"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "The Joxel Group, LLC"
+      },
+      {
+        "type": "p",
+        "text": "6737 W. Washington St., Suite 3470 West Allis, WI 53214"
+      },
+      {
+        "type": "p",
+        "text": "Phone:(414) 800-4242"
+      }
+    ]
+  },
+  "healthcare-consulting": {
+    "slug": "healthcare-consulting",
+    "path": "/healthcare-consulting-2/",
+    "title": "Healthcare Consulting - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Healthcare Consulting"
+      },
+      {
+        "type": "p",
+        "text": "Joxel’s Healthcare consultants have expertise in IT and healthcare. Our experts are often brought into organizations to examine and address specific problems and/or issues and offer solutions. When providing a solution, Joxel’s experts keep efficiency, care to your clients and industry best practices in the forefront."
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we love solving your difficult problems. It’s a desire that has shaped our capabilities; deep but meaningful, difficult but game changing. Joxel offers experienced, expert assistance throughout every phase of your EHR lifecycle."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "EHR Implementations",
+          "EHR Selection",
+          "EHR Optimization",
+          "Project Management",
+          "Avatar Consulting",
+          "Evolv Consulting"
+        ]
+      }
+    ]
+  },
+  "ehr-selection": {
+    "slug": "ehr-selection",
+    "path": "/ehr-selection/",
+    "title": "EHR Selection - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "EHR Selection"
+      },
+      {
+        "type": "p",
+        "text": "Many organizations are finding their current EHRs are cumbersome, distract from client care, or it just doesn’t meet their business needs. Joxel will assist you with the development of requirements, identify candidate systems, solicit and review proposals and demonstrations, negotiate contacts and assist with implementation."
+      },
+      {
+        "type": "p",
+        "text": "Joxel will guide you through the selection process by:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Defining requirements. Joxel will work with your clinical and financial staff to create a prioritized list of requirements and document high level process flows.",
+          "Identification and demonstrations of candidate systems. Using your defined requirements, Joxel will provide a list of 3 to 5 systems for your review and work with EHR vendors to schedule demonstrations.",
+          "Finding the best fit. Based on the requirements, Joxel will provide a scoring matrix for your staff to score each demonstration. Once all demonstrations are complete, Joxel will compile and present findings in an executive format.",
+          "Contract Negotiation. Joxel will assist with contract negotiation to review the terms and conditions as well as pricing.",
+          "System Implementation Support. Joxel can assist your organization during the implementation process. This includes leadership, project management, communication, etc."
+        ]
+      }
+    ]
+  },
+  "ehr-implementations": {
+    "slug": "ehr-implementations",
+    "path": "/ehr-implementations/",
+    "title": "EHR Implementations - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "EHR Implementations"
+      },
+      {
+        "type": "p",
+        "text": "Implementing an electronic health record (EHR) may be the most complex and impactful project your organization will ever take on. Success requires exceptional leadership. Joxel utilizes proven proprietary methodology that complements any existing implementation methodology. Our team brings shared knowledge and lessons learned from hundreds of previous implementations to guide you from implementation planning all the way through stabilization. We have a proven framework for establishing clear communication pathways, engaging stakeholders, conducting exhaustive testing, and creating a comprehensive training and support strategy. Joxel not only helps drive your implementation, but we build in continuous mentorship to ensure your organization is equipped to successfully maintain your EHR post implementation."
+      },
+      {
+        "type": "h2",
+        "text": "Key Steps in Joxel Implementation Strategy"
+      },
+      {
+        "type": "h3",
+        "text": "Establish Governance"
+      },
+      {
+        "type": "p",
+        "text": "A mix of resources, including subject matter experts (SMEs) and key users, must be involved in the various implementation phases, in order to identify key planning issues. We will strive to help our clients establish governance not only in our projects, but from a long term perspective."
+      },
+      {
+        "type": "h3",
+        "text": "Detailed Implementation Charter"
+      },
+      {
+        "type": "p",
+        "text": "Transparency, tracking and communication are key to any successful project. Joxel provides documentation that contains a detailed list of implementation phases, the responsibilities of both your organization’s implementation team and Joxel’s team, communication plan, and much more! This document supports transparency, structure and aides in establishing benchmarks to measure project success."
+      },
+      {
+        "type": "h3",
+        "text": "Understanding your Current State"
+      },
+      {
+        "type": "p",
+        "text": "We understand the value of gathering knowledge and creating relationships with your organizations subject matter experts. Our team will meet your subject matter experts to gain a thorough understanding of your current state to successfully map our future state processes to ensure all business requirements are accounted for."
+      }
+    ]
+  },
+  "ehr-optimization": {
+    "slug": "ehr-optimization",
+    "path": "/ehr-optimization/",
+    "title": "EHR Optimization - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "EHR Optimization"
+      },
+      {
+        "type": "h2",
+        "text": "Our experience drives your success."
+      },
+      {
+        "type": "p",
+        "text": "High quality client care requires strong clinical processes, workflows and data. Incomplete documentation and under-performing EHRs lead to physician push back, quality concerns and impact to your revenue cycle."
+      },
+      {
+        "type": "p",
+        "text": "Joxel will collaborate with you to redefine processes and enhance utilization of your EHR through:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Clinical documentation analysis and process improvement",
+          "Revenue Cycle assessment and process improvement",
+          "Decrease AR days",
+          "Claims, denials and collections management"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Joxel delivers innovative and hands on health care consulting to improve clinical and revenue cycle workflows, ensure system adoption and provide your organization with the ability to use your EHR data for population health management, value based reimbursement and outcomes."
+      }
+    ]
+  },
+  "avatar-consulting": {
+    "slug": "avatar-consulting",
+    "path": "/healthcare-consulting-2/avatar-consulting/",
+    "title": "Avatar Consulting - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Avatar Consulting"
+      },
+      {
+        "type": "p",
+        "text": "Joxel consultants have been working with myAvatar for over 10 years. Our consultants have experience in implementations, day to day support and optimization of Avatar. We are happy to provide the following consulting and configuration services to Netsmart Avatar clients:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Practice Management (PM) Solution design and development",
+          "CalPM Solution design and development",
+          "Clinical Workstation (CWS) Solution design and development",
+          "Managed Service Organization (MSO) Solution and development",
+          "Appointment / Clinic Scheduling Solution design and development",
+          "Avatar GL",
+          "Plexus Project Management",
+          "Crystal Reports for Avatar RADplus",
+          "RadPlus ScriptLink for Avatar",
+          "Widgets for Avatar",
+          "Site Specific Modeling for Product Avatar Forms",
+          "Modeled Form Configuration",
+          "General Avatar Support",
+          "myAvatar process and configuration evaluations",
+          "Data Conversion",
+          "Executive Reporting System (ERS)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "In addition, Joxel consultants are also skilled in the following add on solutions:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "OrderEntry",
+          "OrderConnect",
+          "Perceptive",
+          "ProviderConnect",
+          "Web Services using Netsmart’s available web services",
+          "RxConnect",
+          "myHealthPointe",
+          "State Reporting",
+          "MobileConnect / CarePOV Clinician",
+          "Care Connect Solutions",
+          "KPI Dashboard"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are unsure of your needs, please contact us today for a free consultation!"
+      }
+    ]
+  },
+  "evolv-consulting": {
+    "slug": "evolv-consulting",
+    "path": "/healthcare-consulting-2/evolv-consulting/",
+    "title": "Evolv Consulting - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Evolv Consulting"
+      },
+      {
+        "type": "p",
+        "text": "Joxel consultants have been working with myEvolv for over 7 years. Our consultants have experience in implementations, day to day support and optimization of Evolv. We are happy to provide the following consulting and configuration services to Netsmart Evolv clients:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Financial Solution design and development",
+          "Clinical Solution design and development",
+          "Form and Assessment design and development",
+          "Treatment Plan design and development",
+          "Data Insight for my Evolv",
+          "Plexus Project Management",
+          "General Evolv Support",
+          "Implementations of Evolv NX for clinical",
+          "Evolv Process and Configuration Evaluations"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are unsure of your needs, please contact us today for a free consultation!"
+      }
+    ]
+  },
+  "project-management": {
+    "slug": "project-management",
+    "path": "/healthcare-consulting-2/project-management/",
+    "title": "Project Management - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Project Management"
+      },
+      {
+        "type": "p",
+        "text": "Collaboration and communication between IT and operations is paramount for a project’s success. In order to establish synchronization between both teams, each team must be able to interpret the other’s goals and define a clear plan on how to achieve both teams goals. At Joxel, our project managers understand your business and IT! Joxel’s project managers can help bridge the gap between IT and your business by providing expertise across the entire EHR lifetime, from pre-implementation planning through post live stabilization, strategic planning and optimization. When you pair Joxel’s unique project methodology with their strong project and program management principles, your project is bound for success!"
+      },
+      {
+        "type": "p",
+        "text": "Joxel’s project managers will provide numerous benefits to your organization, including:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Increased project success by delivering on time, under budget and within defined scope.",
+          "Transparency of project statuses",
+          "Accurate resource planning and forecasting",
+          "Quality Control"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Oversight and Management"
+      },
+      {
+        "type": "p",
+        "text": "Joxel project managers bring knowledge and lessons learned from previous projects to drive your project from kick off through implementation. We’ll help you concentrate on the most important tasks and partner with you to strategize and execute across key project areas such as:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Coordinating teams and resources: We have a thorough understanding of the co-dependencies across projects, applications and operational areas. We help you ensure the multitude of concurrent work streams are appropriately planned, managed and monitored.",
+          "Communication: We help you execute your communication plan to ensure all project teams, leadership and end users are aware of progress and risks and there is effective communication among all stakeholders.",
+          "Forecasting and planning ahead: Our project managers help you get ahead of the big decisions! They work with your team to avoid to the “scramble” approach to project management.",
+          "Quality Control: We track project process toward “phases”. At the conclusion of each phase, the project will come to a gateway, where Joxel’s project managers will ensure all deliverables have been met, help identify risks and mitigation plans and ensure the project is advancing as expected."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Project Management Tools and Templates"
+      },
+      {
+        "type": "p",
+        "text": "Our project managers bring the experience of hundreds of projects; such as myAvatar, myEvolv, Epic, and Cerner. We know exactly how to supplement vendor’s methodology and tools. Joxel’s project management toolkit contains over 100 documentation tools and templates that serve as a starting point for your team, saving you time and money! If we don’t have what you are looking for, we can customize our tools to best support your unique project needs. Our standard tool kits include templates for project planning, status reports, deliverable and task tracking documents, issue lists, project charters, risk tracking, change control and lessons learned. We can also meet with your team to review our recommendations and best practice related to communication planning, change control, risk management, and organization change management."
+      }
+    ]
+  },
+  "strategic-consulting": {
+    "slug": "strategic-consulting",
+    "path": "/strategic-consulting-2/",
+    "title": "Strategic Consulting - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Strategic Consulting"
+      },
+      {
+        "type": "p",
+        "text": "As the healthcare industry grows increasingly complex, organizations are seeking outsourced solutions to help balance their strategic priorities and day-to-day decisions. We partner with clients to help drive their revenue cycle and IT departments into the future by focusing on high level strategic initiatives critical to their overall organization."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Office of the CIO",
+          "Revenue Cycle Management"
+        ]
+      }
+    ]
+  },
+  "office-of-the-cio": {
+    "slug": "office-of-the-cio",
+    "path": "/strategic-consulting-2/office-of-the-cio/",
+    "title": "Office of the CIO - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Office of the CIO"
+      },
+      {
+        "type": "p",
+        "text": "With the changing dynamics of healthcare, the role of a Chief Information Officer (CIO) within a healthcare organization has increased significantly. A CIO now has to be well versed with the trends within healthcare to ensure the strategic direction of the organization is being maintained, has to make sure the system and network architecture within the organization is sustainable from both a short-term and long-term perspective, and make sure the information architecture is aligned to provide insights into population health management. Joxel provides the “Office of the CIO” role to ensure organizations can focus on their core competency of managing their clinical and financial operations, while the CIO focuses on ensuring IT is being leveraged to sustain that growth."
+      }
+    ]
+  },
+  "revenue-cycle-management": {
+    "slug": "revenue-cycle-management",
+    "path": "/revenue-cycle-management/",
+    "title": "Revenue Cycle Management - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Revenue Cycle Management"
+      },
+      {
+        "type": "p",
+        "text": "Managing your revenue cycle requires a strategic process for healthcare organizations to improve their revenue projections while maximizing their bottom line. Joxel’s Revenue Cycle Management process is a 360 degree view of the organization’s business, focusing on your admission/registration, patient mix, payer mix, authorization, discharge, billing and claims, denials and AR management to ensure organizations are maximizing revenue. From a value-based care standpoint, Joxel provides analytical solutions to leverage your data in making effective decisions on managing risks and increasing revenue within your population."
+      }
+    ]
+  },
+  "strategic-services": {
+    "slug": "strategic-services",
+    "path": "/strategic-services/",
+    "title": "Strategic Services - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Strategic Services"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we are continuously looking for solutions to meet our clients’ needs and provide quality solutions. Joxel can provide onsite resources to fufill your IT needs! Do you have a custom request? We have a skilled software development team which can create a solution that is easily implemented and adds value to your organization."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Custom Solutions",
+          "EHR Configuration",
+          "Outsourcing Support"
+        ]
+      }
+    ]
+  },
+  "custom-solutions": {
+    "slug": "custom-solutions",
+    "path": "/strategic-services/custom-solutions/",
+    "title": "Custom Solutions - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Custom Solutions"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we are continuously looking for solutions to meet our client’s needs and provide quality solutions. When we find a gap or opportunity, we use our skilled software development team to develop a solution that is easily implemented and adds value to your organization. Check out our two propriety solutions below!"
+      },
+      {
+        "type": "h3",
+        "text": "Youth Services Case Management"
+      },
+      {
+        "type": "p",
+        "text": "Our solution is a Case Management system with a Youth Services centric module to help governmental organizations manage their youth services systems, through centralized and better access to youth information, role based process workflow, and rapid reporting and user notification. Specifically, The Joxel Group’s Case Management system has three main areas of focus:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Intake: This role based module provides a searchable youth focused storage of demographics and risk analysis. With a built in detention risk assessment, tracking of youth in county detention facilities, a central location for storing all criminal justice referrals and petitions (from CPS to Delinquency) it provides transparency while tracking youth entering the Youth Services system.",
+          "Determination: Our consulting team works with the governmental agency to implement a risk based model to recommending appropriate services based on their current evidence based practices. This system reviews a youth’s current risk and associated petition based charges to recommend a set of programming available to the youth, yet is flexible enough to allow case workers, and their supervisors, to override the recommendations on an as needed basis.",
+          "Programming & Services: Our case management system tracks and monitors youth entry into third party programs and services, is able to integrate into some third party providers providing the ability to automatically pull in progress notes. For others we provide the ability for providers to directly enter and a manage their youth case notes directly into the system. Further, we provide the ability to perform quality measurements of third party providers based on the governmental agency’s own audit scoring as well as other metrics such as client demographics, severity of youth offenses, recidivism, etc. on a near real time basis."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Emergency Mutual Aid Solution (EMAS)"
+      },
+      {
+        "type": "p",
+        "text": "Our solution allows emergency dispatch personnel to quickly access box card data, view paging scripts, status of the box card, and resource tracking."
+      },
+      {
+        "type": "p",
+        "text": "Specifically, EMAS provides efficiencies in the following:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Box Cards: Fire departments can quickly and easily update their box cards. Then based on the location of the alarm, our solution will generate the appropriate box card, instantly generate the paging script, and a dispatcher can assign the alarm.",
+          "Status of Fire: We have created an intuitive dashboard that provides the status of the box card and resources. In addition, all information can be quickly updated to ensure accurate reporting.",
+          "Reporting: Our firm has built in standard reports for: agency response times, individual unit response times, and documented communications between the dispatcher and on scene command. In addition, our firm will work with your agency to ensure you are supplied with the correct data to improve response times and processes, including creation of personalized reports.",
+          "Mobile App: Our firm is currently developing a mobile interface for iPhone and Android devices. This will provide fire, rescue, and emergency medical services personnel real-time status of the box card and direct, documented communication with the dispatchers."
+        ]
+      }
+    ]
+  },
+  "emr-configuration": {
+    "slug": "emr-configuration",
+    "path": "/strategic-services/emr-configuration/",
+    "title": "EHR Configuration - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "EHR Configuration"
+      },
+      {
+        "type": "p",
+        "text": "Hiring additional resources for a new EHR implementation or optimization is a drain to any organization. Joxel can help! We have many resources with experience in multiple EHR solutions such as:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Epic",
+          "Cerner",
+          "myAvatar",
+          "myEvolv",
+          "myInsight"
+        ]
+      }
+    ]
+  },
+  "outsourcing-support": {
+    "slug": "outsourcing-support",
+    "path": "/strategic-services/outsourcing-support/",
+    "title": "Outsourcing Support - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Outsourcing Support"
+      },
+      {
+        "type": "p",
+        "text": "Is your organization having trouble retaining skilled IT resources? Are you wanting to streamline or increase efficiencies for time-consuming functions?"
+      },
+      {
+        "type": "p",
+        "text": "Outsourcing may be the solution for your organization! Outsourcing can be defined as a “strategic use of external resources to perform activities traditionally handles by internal staff.”"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we partner with any organization to determine a strategic vision and plan to meet your organization’s needs. We currently offer the following services:"
+      },
+      {
+        "type": "h3",
+        "text": "Development Support"
+      },
+      {
+        "type": "p",
+        "text": "Do you have solutions that requires development support? Joxel can provide your organization one developer or a team of developers based on your organization’s need."
+      },
+      {
+        "type": "h3",
+        "text": "EHR Support"
+      },
+      {
+        "type": "p",
+        "text": "Are you having trouble supporting your EHR? Or is it hard to find one resource to help in all areas? Joxel can provide a team of experts to maintain day to day support of your EHR. Depending on your needs Joxel can provide clinical, revenue cycle or technical support."
+      }
+    ]
+  },
+  "blog": {
+    "slug": "blog",
+    "path": "/blog/",
+    "title": "Blog - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Blog"
+      },
+      {
+        "type": "h3",
+        "text": "Celebrating Success: Client Testimonial from Hope Services"
+      },
+      {
+        "type": "p",
+        "text": "At Joxel, we pride ourselves on our commitment to excellence and client satisfaction. It is with great pleasure that we share a heartfelt testimonial from one of our valued clients, Hope Services. Since 2021, our collaboration has been marked by successful projects and mutual respect. Below is a letter from Anna Fernandez, Director of Behavioral Health Services at Hope Services, highlighting our contributions to their organization. We are incredibly proud of the trust and confidence that Hope Services has placed in us. Our team at Joxel remains dedicated to providing top-tier service and innovative solutions to all our clients. We look forward to continuing our partnership with Hope Services and supporting their vital work in the community. Check out our..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/celebrating-success-client-testimonial-from-hope-services/"
+      },
+      {
+        "type": "h3",
+        "text": "Joxel Spotlight – Kue Yang"
+      },
+      {
+        "type": "p",
+        "text": "Kue Yang is a Project Coordinator, and the newest member of our Joxel Family. Kue joins us with a wealth of experience and expertise that will undoubtedly enhance the services we provide to our clients. His dedication to delivering exceptional results and ensuring client satisfaction aligned perfectly with our commitment to excellence! Let's get to know about Kue.. What prompted you to go into the Healthcare Industry? I've always loved the Healthcare Industry and my background is in IT Project Management. It's a great marriage! How has your previous healthcare experience helped you in your current role at The Joxel Group? Knowing healthcare jargons definitely help break the language barriers! If you could describe yourself in three words, which three..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/joxel-spotlight-kue-yang/"
+      },
+      {
+        "type": "h3",
+        "text": "After the Holidays: A Melancholic Season"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/AdobeStock_240117831-300x200.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "Halloween, Thanksgiving, Christmas, and New Year’s Eve! Fantastic food, friendly fellowship, all objectively ostentatious and adjectively magnanimous moments of the year. And yet the posthumous period is abjectly oppressive for it’s lack of pinpoints of joy and splendor. Because of this, Seasonal Affective Disorder tends to rear it’s ugly head in the period following the holidays alongside a surge in suicidal ideation. The vacuum of obvious festivities is felt in full, and many people (3% of the general population sans pre-existing mental health disorders and roughly 20% of the population with major depression and/or bipolar disorder) suffer from this variably debilitating issue. As a layman who does suffer from Seasonal Affective Disorder (SAD), the only guidance I can offer is..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/after-the-holidays-a-melancholic-season/"
+      },
+      {
+        "type": "h3",
+        "text": "Gen Z, Millennial & ADHD: The beginning"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/ADHD-Article-300x300.jpg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "When you work in close knit team, you tend to learn traits and details about one another; significant others names, pets, favorite foods, etc. But in the workplace, it is rare to know your colleagues beyond a superficial level. At Joxel, we are not only a team – we are a family. We argue (constructively), we know each other's kids’ events, and we celebrate each other accomplishments. This provides an environment that allows all of us to talk about almost anything. Openly, honestly, and without judgement. A few months ago, the topic of Attention Deficit Hyperactivity Disorder (ADHD) came up. We found that two of us struggle with ADHD. After many discussions, we discovered some of our struggles are different,..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/gen-z-millennial-adhd-the-beginning/"
+      },
+      {
+        "type": "h3",
+        "text": "Joxel Spotlight – Nicki Maslanka"
+      },
+      {
+        "type": "p",
+        "text": "We present the second Joxel Video Spotlight featuring Nicki Maslanka, our genius Revenue Cycle Director. Nicki has been with Joxel for just over 5 years and in that time has brought clarity and satisfaction, not to mention greater revenue, to many clients! Please enjoy the interview and look forward to more content coming soon! [embedyt] https://www.youtube.com/watch?v=UZiFN8bSD-Q[/embedyt]"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/joxel-spotlight-nicki-maslanka/"
+      },
+      {
+        "type": "h3",
+        "text": "Joxel Spotlight – Brianna Owen"
+      },
+      {
+        "type": "p",
+        "text": "As the first Joxel Video Spotlight, we present Brianna Owen, a brilliant Business Analyst who has been with Joxel for roughly a year now. As you can plainly see, she brings wit and laughter to the team, and does so with a better sense of style than most of us! Please enjoy the interview and look forward to more content coming soon! [embedyt] https://www.youtube.com/watch?v=nhVQryu3P7M[/embedyt]"
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/joxel-spotlight-brianna-owen/"
+      },
+      {
+        "type": "h3",
+        "text": "“Just a Thought”"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Just-a-Thought-Header-1-300x300.jpg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "People make decisions daily. What to wear, where to eat, which task to start first, what to say, and how to respond, just to name a few. Regardless of where you lay your head at night, the first decision of the day is whether to get out of bed. Why do you decide to get out of bed? What pushes you to do so? As morning arrives and you begin to stir, you lay there with your eyes open, or with your eyes closed. You lay there, partially awake, and then it happens. What happens you ask? Thoughts and questions happen. Thoughts and questions begin bouncing around in your head and these thoughts and questions, typically fall into two categories:..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/just-a-thought/"
+      },
+      {
+        "type": "h3",
+        "text": "Vaccinated? Back to the Office!"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/DA56EF46-C3ED-4A26-9F96-7C15299515D5-300x169.jpg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "Vaccinated? Back to the Office! With vaccination statistics rising and inoculation allowing most of us to return to a level of pre-COVID normality, we find ourselves facing a new albeit minor crisis; how to reintegrate back into office culture and public life at large. While this may seem like a simple adjustment, the transition will prove more difficult than one might assume, due to a variety of health concerns, both physical and behavioral. COVID-19 has changed our cultural approach in a variety of ways; we find ourselves collectively more aware of viral transmission then ever before and are subsequently wary of close, personal interaction sans masks. This proves problematic due to the reduction in ability to read faces and..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/vaccinated-back-to-the-office/"
+      },
+      {
+        "type": "h3",
+        "text": "The Benefits of Data Warehouses"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/circuit-board-27452-1920x1080-1-300x169.jpg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "The Benefits of Data Warehouses Data is one of our client’s most important resources and thus, the maintenance of a secure, optimized, scalable, integrated and accessible system should be the highest priority. Integrating data from various sources available to an organization will assist in performing analysis and reporting, as well as to accelerate business growth and help Leadership analyze past, present and future state. Let us discuss the journey of fictional healthcare organization HealthABC into a Data Warehouse standard. HealthABC offers a variety of Health Care, Behavioral Health, Substance Abuse, Case Management and Homeless Outreach programs to some of city’s most vulnerable patients. These programs use separate systems to track different types of data for disparate purposes; this makes reporting and..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/the-benefits-of-data-warehouses/"
+      },
+      {
+        "type": "h3",
+        "text": "Joxel Spotlight – Neel Eswara"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Neel-240x300.jpg",
+        "alt": "Neel Eswara"
+      },
+      {
+        "type": "p",
+        "text": "Eswara (Neel) Neelakantan is one of our senior team members. Neel has been with The Joxel Group for 12 years. Neel has a diplomatic approach that is infectious. We can always count on Neel to make sure all sides of a situation are carefully explored. This diplomatic approach enhances his ability to listen, understand, execute, and surpass a client’s expectation. Complementing this diplomatic approach is a wealth of people, technical, and analytical knowledge. Here are a few more tidbits about our team’s “honorary” diplomat: What prompted you to go into the Technology industry? Growing up, I loved math and creative thinking. When I was introduced to the computer, it helped me to further explore my areas of interest. I am..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/joxel-spotlight-neel-eswara/"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "1 of 2",
+          "1",
+          "2",
+          "Next »"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Category"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Healthcare Solutions Electronic Health Records",
+          "Joxel Blog",
+          "Joxel Spotlights"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Archives"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "May 2024",
+          "September 2023",
+          "January 2022",
+          "October 2021",
+          "September 2021",
+          "June 2021",
+          "March 2021",
+          "January 2021",
+          "July 2020",
+          "May 2020",
+          "March 2020",
+          "December 2019"
+        ]
+      }
+    ]
+  },
+  "about-us": {
+    "slug": "about-us",
+    "path": "/about-us/",
+    "title": "About Us - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "About Us"
+      },
+      {
+        "type": "p",
+        "text": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed it’s the only thing that ever has. – Margaret Mead"
+      },
+      {
+        "type": "h3",
+        "text": "Our Story"
+      },
+      {
+        "type": "p",
+        "text": "Our company was founded in 2006 by Sushil and Nan Pillai with the intent to create a business consulting and development firm that was industry-specific and focused on enhancing the client’s goals and increasing their business efficiency. Our logo was created to remind everyone our organizations goal is to excel at everything we do while adding value to our clients. We strive to create a large impact with our clients so they will want to come back to us, rather than being required."
+      },
+      {
+        "type": "h3",
+        "text": "Our Focus"
+      },
+      {
+        "type": "p",
+        "text": "Healthcare and Pension. We focus on five core areas: healthcare consulting, configuration, support, custom support and outsourcing."
+      },
+      {
+        "type": "p",
+        "text": "We leverage business and technical insights to ensure our clients are fully aware of the decisions they make while focusing on the long-term growth of their organizations. We work with our clients to understand the detailed operations of our clients so that we can make a sustainable impact on their organization. Our focus allows our team to become well-acquainted with business trends and technology innovations in the healthcare and pension industries which support our commitment to innovate, improve and deliver high quality results to our clients."
+      },
+      {
+        "type": "h3",
+        "text": "Our Promise"
+      },
+      {
+        "type": "p",
+        "text": "We judge our success on every client engagement by adherence to our core values:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Innovation – We continuously seek and implement our service delivery to reduce our clients cost and time of execution.",
+          "Ownership – We carefully define the scope of our responsibilities and take personal ownership of our responsibilities. Failure to exceed client expectations is never acceptable. We never accept work we cannot deliver with excellence. We acknowledge and correct our mistakes.",
+          "Integrity – We are driven by an ethical incentive to provide our clients with high moral solutions that improve their business and the communities they serve.",
+          "Value Creation – We strive to build long lasting relationships with our clients, we are driven to improve our clients business performance and reduce their business risk."
+        ]
+      }
+    ]
+  },
+  "our-leaders": {
+    "slug": "our-leaders",
+    "path": "/about-us/our-leaders/",
+    "title": "Our Leaders - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Our Leaders"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Neel-scaled-e1617205372888.jpg",
+        "alt": "Neel Eswara"
+      },
+      {
+        "type": "h3",
+        "text": "Neel Eswara"
+      },
+      {
+        "type": "h6",
+        "text": "Director, Technology"
+      },
+      {
+        "type": "p",
+        "text": "Neel has over 15 years of experience working in traditional as well as agile application..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/neel-eswara/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Nicki.jpg",
+        "alt": "Nicki Maslanka"
+      },
+      {
+        "type": "h3",
+        "text": "Nicki Maslanka"
+      },
+      {
+        "type": "h6",
+        "text": "Director, Revenue Cycle Management"
+      },
+      {
+        "type": "p",
+        "text": "Nicki has over 18 years of experience working in the financial environment, with over 10..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/nicki-maslanka/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/2019-12-15_01.35.29.jpg",
+        "alt": "Zubair Dhala"
+      },
+      {
+        "type": "h3",
+        "text": "Zubair Dhala"
+      },
+      {
+        "type": "h6",
+        "text": "Chief Technology Officer"
+      },
+      {
+        "type": "p",
+        "text": "Zubair has over ten years of management consulting experience working exclusively in the healthcare business...."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/zubair-dhala/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Mica.png",
+        "alt": "Mica Yurk"
+      },
+      {
+        "type": "h3",
+        "text": "Mica Yurk"
+      },
+      {
+        "type": "h6",
+        "text": "Vice President, Consulting Service"
+      },
+      {
+        "type": "p",
+        "text": "Mica has nine years of experience in the healthcare industry, with the past six years..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/mica-yurk/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/LG_20200927_144004-2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h3",
+        "text": "Lisa Gillen"
+      },
+      {
+        "type": "h6",
+        "text": "Director, Healthcare Solutions"
+      },
+      {
+        "type": "p",
+        "text": "Lisa has over 25 years of management consulting experience working in the healthcare environment, with..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/lisa-gillen/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Hutton-Susan.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h3",
+        "text": "Susan Hutton"
+      },
+      {
+        "type": "h6",
+        "text": "Corporate Legal Counsel"
+      },
+      {
+        "type": "p",
+        "text": "Susan has over 30 years of experience assisting clients with their legal needs and limits..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/susan-hutton/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/NAN_270_310.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h3",
+        "text": "Nan Pillai"
+      },
+      {
+        "type": "h6",
+        "text": "Chief Operating Officer"
+      },
+      {
+        "type": "p",
+        "text": "Nan has over 20 years of management consulting experience working in the financial services, healthcare,..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/nan-pilllai/"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/SUSHIL_270_310.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h3",
+        "text": "Sushil Pillai"
+      },
+      {
+        "type": "h6",
+        "text": "President and CEO"
+      },
+      {
+        "type": "p",
+        "text": "Sushil has over 25 years of management consulting experience working in the healthcare and pension..."
+      },
+      {
+        "type": "button",
+        "text": "Read More",
+        "href": "https://thejoxelgroup.com/our-team/sushil-pillai/"
+      }
+    ]
+  },
+  "joxel-365": {
+    "slug": "joxel-365",
+    "path": "/about-us/joxel-365/",
+    "title": "Joxel 365 - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Joxel 365"
+      },
+      {
+        "type": "h2",
+        "text": "Community Involvement and Volunteer Work"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/There-Is-Hope.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Million-Meals-Challenge-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Million-Meals-Challenge-2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/AtTheVan-1024x768.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/CHW_BARW_header_logo.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/logo_mequon_nature_preserve.jpg",
+        "alt": "Mequon Nature Preserve Logo"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/logo-milwaukee-rescue-mission.png",
+        "alt": "Milwaukee Rescue Mission Logo"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Paralyzed_Veterans.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/ISHA.jpg",
+        "alt": ""
+      },
+      {
+        "type": "h3",
+        "text": "International Community Support"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Balamandir Girls Orphanage, Tamil Nadu, India"
+        ]
+      }
+    ]
+  },
+  "contact-us": {
+    "slug": "contact-us",
+    "path": "/about-us/contact-us-today/",
+    "title": "Contact Us - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Contact Us"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Email",
+          "Phone"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Netsmart",
+          "Social Media",
+          "Google Search",
+          "Referral",
+          "Other"
+        ]
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+        "alt": "Loading"
+      }
+    ]
+  },
+  "client-testimonials": {
+    "slug": "client-testimonials",
+    "path": "/about-us/client-testimonials/",
+    "title": "Client Testimonials - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Client Testimonials"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Brown-County.jpg",
+        "alt": "Brown County"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Fond-du-Lac-Logo.jpg",
+        "alt": "Fond du Lac County"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/LSS-Logo-1.jpg",
+        "alt": "Lutheran Social Services"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/MC-Logo.jpg",
+        "alt": "Milwaukee County"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/Sauk-County-Logo.png",
+        "alt": "Sauk County"
+      },
+      {
+        "type": "img",
+        "src": "https://thejoxelgroup.com/wp-content/uploads/WC-Logo-1.png",
+        "alt": "Waukesha County"
+      }
+    ]
+  },
+  "partnerships": {
+    "slug": "partnerships",
+    "path": "/about-us/partnerships/",
+    "title": "Partnerships - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Partnerships"
+      },
+      {
+        "type": "p",
+        "text": "Our relationship with Lutheran Social Services (LSS) began in 2018 when our Executive Leadership Team engaged in an assessment of their Information Technology processes and utilization of their EHR. Upon successful completion, our team continued this partnership with an IT Steering Committee implementation and an optimization project with the intent to increase utilization, delivery of care and ROI within their EHR. As a result of the constant collaboration and due to the tremendous commitment Lutheran Social Services has to improving our local communities, The Joxel Group, LLC was invited to join the LSS Partnership Circle in 2020."
+      }
+    ]
+  },
+  "terms-of-use": {
+    "slug": "terms-of-use",
+    "path": "/terms-of-use/",
+    "title": "Terms of Use - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Terms of Use"
+      },
+      {
+        "type": "p",
+        "text": "Terms of Use Please read the following Legal Notices & Terms of Use (“Terms of Use”) carefully before viewing or using the thejoxelgroup.com web site (“Site”). By accessing or using the Site you signify that you have read, understand and agree to be bound by these Terms of Use. The Joxel Group (THE JOXEL GROUP, LLC) reserves the right to modify these Terms of Use at any time by posting modified Terms of Use, and your continued use of the Site thereafter will constitute agreement with such modifications. If you do not agree to these Terms of Use, please do not use this Site."
+      },
+      {
+        "type": "p",
+        "text": "THE JOXEL GROUP, LLC is a Wisconsin limited liability company with offices in Wisconsin and established under the laws of the state of Wisconsin, USA. References in these Terms of Use or the Site to “THE JOXEL GROUP, LLC”, or the “Company” refer to the Wisconsin limited liability company, unless indicated otherwise. THE JOXEL GROUP, LLC operates this Site to provide online access to information about THE JOXEL GROUP, LLC and the products, services, and opportunities we provide (the “Service”). Additional terms and conditions applicable to specific areas of this Site or to particular content or transactions are also posted in particular areas of the Site and, together with these Terms of Use, govern your use of those areas, content or transactions. These Terms of Use, together with applicable additional terms and conditions, are referred to as this “Agreement”."
+      },
+      {
+        "type": "p",
+        "text": "Use of Site Unless otherwise specified, the Services are for your personal and non-commercial use. No right, title or interest in any Content is transferred to you, whether as a result of downloading such Content or otherwise. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the Services."
+      },
+      {
+        "type": "p",
+        "text": "User Conduct While using the Site you will comply with all applicable laws, rules, and regulations. In addition, the Company expects users of the Site to respect the rights and dignity of others. Your use of the Site is conditioned on your compliance with the rules of conduct set forth in this section; your failure to comply with such rules may result in termination of your access to the Site. You agree that you will not: a. Use the Site for any fraudulent or unlawful purpose. b. Use the Site to defame, abuse, harass, stalk, threaten or otherwise violate the legal rights of others, including without limitation others’ privacy rights or rights of publicity, or harvest or collect personally identifiable information about other users of the Site. c. Impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity in connection with the Site; or express or imply that the Company endorses any statement you make. d. Interfere with or disrupt the operation of the Site or the servers or networks used to make the Site available; or violate any requirements, procedures, policies or regulations of such networks. e. Transmit or otherwise make available in connection with the Site any virus, worm, Trojan horse, Easter egg, time bomb, spyware, or other computer code, file, or program that is harmful or invasive or that may be or is intended to damage or hijack the operation of, or to monitor the use of, any hardware, software, or equipment. f. Restrict or inhibit any other person from using the Site (including without limitation by hacking or defacing any portion of the Site). g. Reproduce, duplicate, copy, sell, resell, or otherwise exploit for any commercial purposes, any portion of, use of, or access to the Site. h. Modify, adapt, translate, reverse engineer, decompile, or disassemble any portion of the Site. i. Remove any copyright, trademark, or other proprietary rights notice from the Site or materials originating from the Site. j. Frame or mirror any part of the Site without our express prior written consent. k. Create a database by systematically downloading and storing Site content. l. Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine,” or in any way gather Site content or reproduce or circumvent the navigational structure or presentation of the Site without our express prior written consent. Notwithstanding the foregoing, the Company grants the operators of public online search engines limited permission to use search retrieval applications to reproduce materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of such materials solely in connection with each operator’s public online search service. The Company reserves the right to revoke these exceptions either generally or in specific instances."
+      },
+      {
+        "type": "p",
+        "text": "Copyright The Site and the Content are protected by U.S. and foreign copyright laws, and belong to THE JOXEL GROUP, LLC and its partners, affiliates, contributors and third parties. The copyrights in the content are owned by THE JOXEL GROUP, LLC or other copyright owners who have authorized their use on this Site. You may download and reprint Content for non-commercial, non-public, personal use only. (If you are browsing this Site as an employee or member of any business or organization, you may download and reprint Content only for educational or other non-commercial purposes within your business or organization, except as otherwise permitted by THE JOXEL GROUP, LLC, for example in certain password-restricted areas. You may not manipulate or alter in any way any images or other Content on the Site."
+      },
+      {
+        "type": "p",
+        "text": "Intellectual Property © Copyright THE JOXEL GROUP, LLC. All rights reserved. The Company claims a copyright in all proprietary and copyrightable text, graphics and computer code on this Site, the overall design of this Site, and the selection, arrangement and presentation of all materials on this Site, including information in the public domain. You agree not to copy, reproduce, republish, transmit, modify, or distribute any of the materials contained on the Site, except for your personal, noncommercial use, absent the written approval of THE JOXEL GROUP, LLC."
+      },
+      {
+        "type": "p",
+        "text": "Links to Third-Party Web Sites If you use any links on the Site to websites not maintained by THE JOXEL GROUP, LLC, you will leave the THE JOXEL GROUP, LLC’s Site. The linked sites are not under the control of the Company and the Company is not responsible for the contents of any linked site or any link contained on a linked site. The Company provides these links to you only as a convenience and the inclusion of any link does not imply recommendation, approval or endorsement by the Company of the site."
+      },
+      {
+        "type": "p",
+        "text": "Downloading Files Any software or documents that are made available to download from the Services (“Download”) is the copyrighted work of THE JOXEL GROUP, LLC and/or its suppliers. Use of the Download is governed by the terms of this Agreement, or by the end user license agreement, if any, which accompanies or is included with the Download (“License Agreement”). Third party scripts or code, linked to or referenced from this website, are licensed to you by the third parties that own such code, not by the Company. The Download is made available for download solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Download not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible."
+      },
+      {
+        "type": "p",
+        "text": "Without limiting the foregoing, copying or reproduction of the download to any other server or location for further reproduction or redistribution is expressly prohibited, unless such reproduction or redistribution is expressly permitted by the license agreement accompanying such download."
+      },
+      {
+        "type": "p",
+        "text": "The download is warranted, if at all, only according to the terms of the license agreement. Except as warranted in the license agreement, THE JOXEL GROUP, LLC hereby disclaims all warranties and conditions with regard to the download, including all warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular purpose, title and non-infringement. For your convenience, THE JOXEL GROUP, LLC may make available as part of the services or in its software products, tools and utilities for use and/or download. THE JOXEL GROUP, LLC does not make any assurances with regard to the accuracy of the results or output that derives from such use of any such tools and utilities. Please respect the intellectual property rights of others when using the tools and utilities made available on the services or in THE JOXEL GROUP, LLC software products."
+      },
+      {
+        "type": "p",
+        "text": "Disclaimer of warranties THE JOXEL GROUP, LLC makes no express or implied warranties, representations or endorsements whatsoever with respect to the site, the service or the content. THE JOXEL GROUP, LLC expressly disclaims all warranties of any kind, express, implied, statutory or otherwise, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, with regard to the site, the service, the content, and any product or service furnished or to be furnished via the site. THE JOXEL GROUP, LLC does not warrant that the functions performed by the site or the service will be uninterrupted, timely, secure or error-free, or that defects in the site or the service will be corrected. THE JOXEL GROUP, LLC does not warrant the accuracy or completeness of the content, or that any errors in the content will be corrected. The site, the service and the content are provided on an “as is” and “as available” basis."
+      },
+      {
+        "type": "p",
+        "text": "Limitation of Liability IN NO EVENT WILL THE JOXEL GROUP, LLC be liable for any loss or injury, or any damages, whether direct, special, indirect, punitive, incidental, exemplary, consequential, or otherwise, whether based on breach of contract, tort (including negligence), or otherwise, resulting from your access or use of this site. You hereby waive any and all such claims against THE JOXEL GROUP, LLC, their partners, employee affiliates and contributors. You agree that the limitations set forth above are fundamental elements of this agreement, and that the Site and its materials would not be provided to you absent such limitations. Some state statutes may restrict this limitation of liability. IF YOU ARE DISSATISFIED WITH ANYTHING ON OR RELATED TO THE SITE, SUCH AS THE SERVICE, THE CONTENT, OR WITH THE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE. Indemnification. THE JOXEL GROUP, LLC makes no express or implied warranties, representations or endorsements whatsoever with respect to the site, the service or the content. THE JOXEL GROUP, LLC expressly disclaims all warranties of any kind, express, implied, statutory or otherwise, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, with regard to the site, the service, the content, and any product or service furnished or to be furnished via the site. THE JOXEL GROUP, LLC does not warrant that the functions performed by the site or the service will be uninterrupted, timely, secure or error-free, or that defects in the site or the service will be corrected. THE JOXEL GROUP, LLC does not warrant the accuracy or completeness of the content, or that any errors in the content will be corrected. The site, the service and the content are provided on an “as is” and “as available” basis."
+      },
+      {
+        "type": "p",
+        "text": "Additional Terms of Service If you purchase any paid Service from THE JOXEL GROUP, LLC, such purchases will be subject to the additional terms and conditions associated with such purchases, including an associated purchase contract. Please review the policies that govern your use of such Services."
+      },
+      {
+        "type": "p",
+        "text": "Password Security If you register to become an THE JOXEL GROUP, LLC member, you are responsible for maintaining the confidentiality of your member identification and password information, and for restricting access to your computer. You agree to accept responsibility for all activities that occur under your member identification and password. You agree to notify THE JOXEL GROUP, LLC immediately of any unauthorized use of your account or any other breach of security. THE JOXEL GROUP, LLC will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by THE JOXEL GROUP, LLC or another party due to someone else using your account or password. You may not use anyone else’s account at any time, without the permission of the account holder."
+      },
+      {
+        "type": "p",
+        "text": "Filtering Pursuant to 47 U.S.C. Section 230(d) as amended, THE JOXEL GROUP, LLC notifies you that parental control protections are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available at: http://kids.getnetwise.org/ and http://onguardonline.gov/. Please note that the Company does not endorse any of the products or services listed at these sites."
+      },
+      {
+        "type": "p",
+        "text": "Unsolicited Idea Submission Policy Neither THE JOXEL GROUP, LLC, nor any of its employees, accept or consider unsolicited ideas, including ideas for new advertising campaigns, marketing strategies, new products or technologies, services, processes, materials, marketing plans, or new product names. Please do not send any original creative artwork, samples, demos, or other works. The sole purpose of this policy is to avoid misunderstandings should THE JOXEL GROUP, LLC’s business activities bear coincidental similarities with one or more of the many unsolicited ideas submitted to THE JOXEL GROUP, LLC. Please do not send your unsolicited ideas to THE JOXEL GROUP, LLC or anyone at THE JOXEL GROUP, LLC. If, in spite of our request that you not send us your ideas, you still send them, then regardless of what your submission may say: • your idea will automatically become the property of THE JOXEL GROUP, LLC, without any compensation to you; • THE JOXEL GROUP, LLC will have no obligation to return your idea to you or respond to you in any way; • THE JOXEL GROUP, LLC will have no obligation to keep your idea confidential; and • THE JOXEL GROUP, LLC may use your idea for any purpose whatsoever, including giving your idea to others."
+      },
+      {
+        "type": "p",
+        "text": "User Supplied Information Any feedback you provide at this Site shall be deemed to be non-confidential. THE JOXEL GROUP, LLC shall obtain the royalty-free, irrevocable, perpetual, worldwide right to use, distribute, display and create derivative works from the feedback, in any and all media, in any manner, in whole or in part, without any restriction or responsibilities to you. By providing such feedback, you guarantee to us that you have the legal right to post said feedback and that it will not violate any law or the rights of any person or entity."
+      },
+      {
+        "type": "p",
+        "text": "Claims of Copyright Infringement Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider’s Designated Agent. It is THE JOXEL GROUP, LLC’s policy to take immediate action to address allegations of copyright infringement reported to us in accordance with applicable law, including but not limited to the United States Digital Millennium Copyright Act (Details can be found at http://copyright.gov ). To report an infringement, you must submit a written notice containing the following: • Identification of the copyrighted content alleged to be infringed upon in sufficient detail to specify the copyrighted work (i.e. url or publication information of original copyrighted work). Identification of content subject to claim of copyright infringement, including the specific url of content submitted, posted, or displayed through the Services. • Contact information sufficient to allow THE JOXEL GROUP, LLC to contact you regarding your claim; including your name, address, telephone number, and email address. • A statement by you that you have a good faith belief that aforementioned use of copyrighted content is unauthorized. • A statement by you, under the penalty of perjury that all information provided in the notice is accurate, and that you are either the owner of the allegedly infringed copyright or a person authorized to act on the copyright owner’s behalf. • A physical or electronic signature of the copyright owner or a person authorized to act on behalf of the copyright owner."
+      },
+      {
+        "type": "p",
+        "text": "General Provisions If any of the provisions of these Terms of Use are held by a court or other tribunal of competent jurisdiction to be void or unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary and replaced with a valid provision that best embodies the intent of these Terms of Use, so that these Terms of Use shall remain in full force and effect. These Terms of Use constitute the entire agreement between you and THE JOXEL GROUP, LLC with regard to your use of the Site, and any and all other written or oral agreements or understandings previously existing between you and THE JOXEL GROUP, LLC with respect to such use are hereby superseded and cancelled. Other than as provided in a purchase agreement you enter into with THE JOXEL GROUP, LLC, THE JOXEL GROUP, LLC will not accept any counter-offers to these Terms of Use, and all such offers are hereby categorically rejected. THE JOXEL GROUP, LLC’s failure to insist on or enforce strict performance of these Terms of Use shall not be construed as a waiver by THE JOXEL GROUP, LLC of any provision or any right it has to enforce these Terms of Use, nor shall any course of conduct between THE JOXEL GROUP, LLC and you or any other party be deemed to modify any provision of these Terms of Use. These Terms of Use shall not be interpreted or construed to confer any rights or remedies on any third parties."
+      },
+      {
+        "type": "p",
+        "text": "Choice of Law/ Forum You agree that all matters relating to your access to or use of the Site, including all disputes, will be governed by the laws of the United States and by the laws of the State of Wisconsin without regard to its conflicts of law provisions. You agree to the personal jurisdiction by and venue in the state and federal courts in Dane County, Wisconsin, and waive any objection to such jurisdiction or venue. Any claim under these Terms of Use must be brought within one (1) year after the cause of action arises, or such claim or cause of action is barred. Claims made under the separate terms and conditions of purchase for goods and services are not subject to this limitation. No recovery may be sought or received for damages other than out-of-pocket expenses, except that the prevailing party will be entitled to costs and attorneys’ fees. In the event of any controversy or dispute between the Company and you arising out of or in connection with your use of the Site, the parties shall attempt, promptly and in good faith, to resolve any such dispute. If we are unable to resolve any such dispute within a reasonable time (not to exceed thirty (30) days), then either party may submit such controversy or dispute to mediation. If the dispute cannot be resolved through mediation, then the parties shall be free to pursue any right or remedy available to them under applicable law."
+      }
+    ]
+  },
+  "privacy-policy": {
+    "slug": "privacy-policy",
+    "path": "/privacy-policy/",
+    "title": "Privacy Policy - The Joxel Group, LLC",
+    "banner": "",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "p",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "p",
+        "text": "This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website."
+      },
+      {
+        "type": "p",
+        "text": "What personal information do we collect from the people that visit our blog, website or app?"
+      },
+      {
+        "type": "p",
+        "text": "When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience."
+      },
+      {
+        "type": "p",
+        "text": "When do we collect information?"
+      },
+      {
+        "type": "p",
+        "text": "We collect information from you when you fill out a form or enter information on our site."
+      },
+      {
+        "type": "p",
+        "text": "How do we use your information?"
+      },
+      {
+        "type": "p",
+        "text": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: To allow us to better service you in responding to your customer service requests."
+      },
+      {
+        "type": "p",
+        "text": "How do we protect your information?"
+      },
+      {
+        "type": "p",
+        "text": "Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible."
+      },
+      {
+        "type": "p",
+        "text": "We use regular Malware Scanning."
+      },
+      {
+        "type": "p",
+        "text": "Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology."
+      },
+      {
+        "type": "p",
+        "text": "We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information."
+      },
+      {
+        "type": "p",
+        "text": "All transactions are processed through a gateway provider and are not stored or processed on our servers. longer than 30 days in order"
+      },
+      {
+        "type": "p",
+        "text": "Do we use ‘cookies’?"
+      },
+      {
+        "type": "p",
+        "text": "Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future."
+      },
+      {
+        "type": "p",
+        "text": "We use cookies to: Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf."
+      },
+      {
+        "type": "p",
+        "text": "You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since everyone’s browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies."
+      },
+      {
+        "type": "p",
+        "text": "If you turn cookies off, some of the features that make your site experience more efficient may not function properly. It won’t affect the user’s experience that make your site experience more efficient and may not function properly."
+      },
+      {
+        "type": "p",
+        "text": "Third-party disclosure"
+      },
+      {
+        "type": "p",
+        "text": "We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information."
+      },
+      {
+        "type": "p",
+        "text": "Third-party links"
+      },
+      {
+        "type": "p",
+        "text": "We do not include or offer third-party products or services on our website."
+      },
+      {
+        "type": "p",
+        "text": "Google"
+      },
+      {
+        "type": "p",
+        "text": "Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. Click here to view We use Google AdSense Advertising on our website."
+      },
+      {
+        "type": "p",
+        "text": "Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy."
+      },
+      {
+        "type": "p",
+        "text": "We have implemented the following: • Google Display Network Impression Reporting • Demographics and Interests Reporting"
+      },
+      {
+        "type": "p",
+        "text": "We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website."
+      },
+      {
+        "type": "p",
+        "text": "Opting out: Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on."
+      },
+      {
+        "type": "p",
+        "text": "California Online Privacy Protection Act"
+      },
+      {
+        "type": "p",
+        "text": "CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf"
+      },
+      {
+        "type": "p",
+        "text": "According to CalOPPA, we agree to the following: Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website."
+      },
+      {
+        "type": "p",
+        "text": "Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above. You will be notified of any Privacy Policy changes: • On our Privacy Policy Page Can change your personal information: • By emailing us"
+      },
+      {
+        "type": "p",
+        "text": "How does our site handle Do Not Track signals?"
+      },
+      {
+        "type": "p",
+        "text": "We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place."
+      },
+      {
+        "type": "p",
+        "text": "Does our site allow third-party behavioral tracking? It’s also important to note that we do not allow third-party behavioral tracking"
+      },
+      {
+        "type": "p",
+        "text": "COPPA (Children Online Privacy Protection Act)"
+      },
+      {
+        "type": "p",
+        "text": "When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online."
+      },
+      {
+        "type": "p",
+        "text": "We do not specifically market to children under the age of 13 years old."
+      },
+      {
+        "type": "p",
+        "text": "Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?"
+      },
+      {
+        "type": "p",
+        "text": "Fair Information Practices"
+      },
+      {
+        "type": "p",
+        "text": "The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur."
+      },
+      {
+        "type": "p",
+        "text": "We will notify you via email • Within 1 business day"
+      },
+      {
+        "type": "p",
+        "text": "We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only these individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors."
+      },
+      {
+        "type": "p",
+        "text": "CAN SPAM Act"
+      },
+      {
+        "type": "p",
+        "text": "The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations."
+      },
+      {
+        "type": "p",
+        "text": "We collect your email address in order to: • Send information, respond to inquiries, and/or other requests or questions"
+      },
+      {
+        "type": "p",
+        "text": "To be in accordance with CANSPAM, we agree to the following:"
+      },
+      {
+        "type": "p",
+        "text": "If at any time you would like to unsubscribe from receiving future emails, you can email us at and we will promptly remove you from ALL correspondence."
+      },
+      {
+        "type": "p",
+        "text": "Last Edited on 2021-06-15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "testimonials": [
+    {
+      "org": "Vista Del Mar Child and Family Services",
+      "person": "Brent Cohen, Project Manager, Vista Del Mar Child and Family Services",
+      "quote": "Working directly with Mica Yurk, Joxel's Vice President of Consulting Services, has been an exceptional experience for our organization. Her extensive knowledge, unique expertise and ability to provide a comprehensive background on various aspects of our project have been invaluable. Mica has successfully delivered strategic and tactical guidance, significantly enhancing our operations. Joxel's contributions have improved our systems and enhanced our ability to fulfill our..."
+    },
+    {
+      "org": "CATCH, Inc",
+      "person": "Megan Cudmore, EHR Data Optimization Analyst",
+      "quote": "Our partnership with The Joxel Group has been exceptional. Beyond providing technical assistance whenever needed, they excel in creatively problem-solving myEvolv issues with our team. What stands out is their dedication to empowering our team. They not only fix problems but also teach and mentor our administrators, enhancing our internal capacity for handling similar challenges in the future. We appreciate their dedication to our success."
+    },
+    {
+      "org": "Hope Services",
+      "person": "Sujan Vatturi, Chief Information Officer",
+      "quote": "\"The Joxel Team has been instrumental in solving complex system and business problems with our Electronic Health Record system. They bring a high level of technical and business expertise to the table which helps resolve complex challenges and meet tight deadlines. Their biggest asset is the ability to be nimble and execute to a high-quality standard.\""
+    },
+    {
+      "org": "Waukesha County Department of Health and Human Services",
+      "person": "Donn Hoffmann, PMO and Public Safety Systems Manager and Sandra Masker, Business Application Administrator",
+      "quote": "The Joxel Group has proven themselves as a valuable IT consulting partner to Waukesha County Government and a key partner of the Health and Human Services Department. We recognize that the understanding of the customer needs is integral to our continued success, and The Joxel Group has done a great job of going the extra mile to thoroughly understand our culture, business requirements and the..."
+    },
+    {
+      "org": "Lutheran Social Services of Wisconsin & Upper Michigan, Inc",
+      "person": "Michelle Naples, Chief Integration Officer",
+      "quote": "The Joxel Group is a trusted advisor and strategic partner to LSS. Our partnership started with Joxel conducting an IT assessment and evolved into helping us implement key assessment recommendations relating to IT governance, standardization of processes, and enhanced utilization of our Electronic Health Record. Joxel knows what it takes to effectively implement change through focusing on people, processes, and systems. They bring expertise, innovation,..."
+    },
+    {
+      "org": "Sauk County Department of Human Services",
+      "person": "Stephanie Box, Business and Administrative Services Manager",
+      "quote": "Sauk County DHS has utilized Joxel’s expertise in a variety of ways. From providing a systems health check, to implementing the treatment plan to training of staff and writing reports. Joxel listens to the needs of the agency and staff and delivers an end product that reflects that. Joxel is easy to work with and is available even after the project is done. Our agency..."
+    },
+    {
+      "org": "Sauk County Department of Human Services",
+      "person": "Penny Janechek, Data System Paraprofessional",
+      "quote": "I can’t express my appreciation enough for the training I received through Joxel. The staff has a high level of knowledge and experience working in MyAvatar. As a new user, I felt at each session I received training at a level I could learn from and most importantly retain. I was provided with excellent training documents and tools created by Joxel that have been useful..."
+    },
+    {
+      "org": "Milwaukee County Employees’ Retirement System",
+      "person": "Erika Bronikowski, RPS Director",
+      "quote": "We have been working with Joxel for over a decade and it has been a pleasure working with them. They have consistently provided high-quality, timely work which has allowed our team to make incredible progress on our major IT projects. We truly value the partnership we have with the Joxel team and have been pleased with their flexibility and commitment to our needs."
+    },
+    {
+      "org": "Interested in submitting a client testimonial?",
+      "person": "",
+      "quote": "Joxel loves hearing from their clients! If you would like to submit a testimonial, please email your request to info@thejoxelgroup.com."
+    },
+    {
+      "org": "Brown County, Wisconsin",
+      "person": "Lisa Sperbeck, Systems Analyst",
+      "quote": "Since 2015, I‘ve worked with the Joxel Group, LCC. They were instrumental in our implementation of myAvatar, and provided invaluable assistance with Revenue Cycle Management and custom report writing. Joxel resources actually listen and take the time to fully understand the project's complexity and help figure out the customer’s root needs. They’ve provided quality leadership, support and project management knowledge at all times, and have..."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Neel Eswara",
+      "role": "Director, Technology",
+      "excerpt": "Neel has over 15 years of experience working in traditional as well as agile application...",
+      "img": "assets/img/Neel-scaled-e1617205372888.jpg",
+      "link": "https://thejoxelgroup.com/our-team/neel-eswara/"
+    },
+    {
+      "name": "Nicki Maslanka",
+      "role": "Director, Revenue Cycle Management",
+      "excerpt": "Nicki has over 18 years of experience working in the financial environment, with over 10...",
+      "img": "assets/img/Nicki.jpg",
+      "link": "https://thejoxelgroup.com/our-team/nicki-maslanka/"
+    },
+    {
+      "name": "Zubair Dhala",
+      "role": "Chief Technology Officer",
+      "excerpt": "Zubair has over ten years of management consulting experience working exclusively in the healthcare business....",
+      "img": "assets/img/2019-12-15_01.35.29.jpg",
+      "link": "https://thejoxelgroup.com/our-team/zubair-dhala/"
+    },
+    {
+      "name": "Mica Yurk",
+      "role": "Vice President, Consulting Service",
+      "excerpt": "Mica has nine years of experience in the healthcare industry, with the past six years...",
+      "img": "assets/img/Mica.png",
+      "link": "https://thejoxelgroup.com/our-team/mica-yurk/"
+    },
+    {
+      "name": "Lisa Gillen",
+      "role": "Director, Healthcare Solutions",
+      "excerpt": "Lisa has over 25 years of management consulting experience working in the healthcare environment, with...",
+      "img": "assets/img/LG_20200927_144004-2.jpg",
+      "link": "https://thejoxelgroup.com/our-team/lisa-gillen/"
+    },
+    {
+      "name": "Susan Hutton",
+      "role": "Corporate Legal Counsel",
+      "excerpt": "Susan has over 30 years of experience assisting clients with their legal needs and limits...",
+      "img": "assets/img/Hutton-Susan.jpg",
+      "link": "https://thejoxelgroup.com/our-team/susan-hutton/"
+    },
+    {
+      "name": "Nan Pillai",
+      "role": "Chief Operating Officer",
+      "excerpt": "Nan has over 20 years of management consulting experience working in the financial services, healthcare,...",
+      "img": "assets/img/NAN_270_310.jpg",
+      "link": "https://thejoxelgroup.com/our-team/nan-pilllai/"
+    },
+    {
+      "name": "Sushil Pillai",
+      "role": "President and CEO",
+      "excerpt": "Sushil has over 25 years of management consulting experience working in the healthcare and pension...",
+      "img": "assets/img/SUSHIL_270_310.jpg",
+      "link": "https://thejoxelgroup.com/our-team/sushil-pillai/"
+    }
+  ],
+  "blog": {
+    "posts": [
+      {
+        "title": "Celebrating Success: Client Testimonial from Hope Services",
+        "link": "https://thejoxelgroup.com/celebrating-success-client-testimonial-from-hope-services/",
+        "date": "May 16, 2024",
+        "cats": [
+          "Electronic Health Records",
+          "Joxel Blog"
+        ],
+        "img": "",
+        "excerpt": "At Joxel, we pride ourselves on our commitment to excellence and client satisfaction. It is with great pleasure that we share a heartfelt testimonial from one of our valued clients, Hope Services. Since 2021, our collaboration has been marked by successful projects and mutual respect. Below is a letter from Anna Fernandez, Director of Behavioral Health Services at Hope Services, highlighting our contributions to their organization. We are incredibly proud of the trust and confidence that Hope Services has placed in us. Our team at Joxel remains dedicated to providing top-tier service and innovative solutions to all our clients. We look forward to continuing our partnership with Hope Services and supporting their vital work in the community. Check out our... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Kue Yang",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-kue-yang/",
+        "date": "September 15, 2023",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "",
+        "excerpt": "Kue Yang is a Project Coordinator, and the newest member of our Joxel Family. Kue joins us with a wealth of experience and expertise that will undoubtedly enhance the services we provide to our clients. His dedication to delivering exceptional results and ensuring client satisfaction aligned perfectly with our commitment to excellence! Let's get to know about Kue.. What prompted you to go into the Healthcare Industry? I've always loved the Healthcare Industry and my background is in IT Project Management. It's a great marriage! How has your previous healthcare experience helped you in your current role at The Joxel Group? Knowing healthcare jargons definitely help break the language barriers! If you could describe yourself in three words, which three... Read More"
+      },
+      {
+        "title": "After the Holidays: A Melancholic Season",
+        "link": "https://thejoxelgroup.com/after-the-holidays-a-melancholic-season/",
+        "date": "January 3, 2022",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/AdobeStock_240117831-300x200.jpeg",
+        "excerpt": "Halloween, Thanksgiving, Christmas, and New Year’s Eve! Fantastic food, friendly fellowship, all objectively ostentatious and adjectively magnanimous moments of the year. And yet the posthumous period is abjectly oppressive for it’s lack of pinpoints of joy and splendor. Because of this, Seasonal Affective Disorder tends to rear it’s ugly head in the period following the holidays alongside a surge in suicidal ideation. The vacuum of obvious festivities is felt in full, and many people (3% of the general population sans pre-existing mental health disorders and roughly 20% of the population with major depression and/or bipolar disorder) suffer from this variably debilitating issue. As a layman who does suffer from Seasonal Affective Disorder (SAD), the only guidance I can offer is... Read More"
+      },
+      {
+        "title": "Gen Z, Millennial & ADHD: The beginning",
+        "link": "https://thejoxelgroup.com/gen-z-millennial-adhd-the-beginning/",
+        "date": "October 22, 2021",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/ADHD-Article-300x300.jpg",
+        "excerpt": "When you work in close knit team, you tend to learn traits and details about one another; significant others names, pets, favorite foods, etc. But in the workplace, it is rare to know your colleagues beyond a superficial level. At Joxel, we are not only a team – we are a family. We argue (constructively), we know each other's kids’ events, and we celebrate each other accomplishments. This provides an environment that allows all of us to talk about almost anything. Openly, honestly, and without judgement. A few months ago, the topic of Attention Deficit Hyperactivity Disorder (ADHD) came up. We found that two of us struggle with ADHD. After many discussions, we discovered some of our struggles are different,... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Nicki Maslanka",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-nicki-maslanka/",
+        "date": "October 21, 2021",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "",
+        "excerpt": "We present the second Joxel Video Spotlight featuring Nicki Maslanka, our genius Revenue Cycle Director. Nicki has been with Joxel for just over 5 years and in that time has brought clarity and satisfaction, not to mention greater revenue, to many clients! Please enjoy the interview and look forward to more content coming soon! [embedyt] https://www.youtube.com/watch?v=UZiFN8bSD-Q[/embedyt] Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Brianna Owen",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-brianna-owen/",
+        "date": "October 21, 2021",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "",
+        "excerpt": "As the first Joxel Video Spotlight, we present Brianna Owen, a brilliant Business Analyst who has been with Joxel for roughly a year now. As you can plainly see, she brings wit and laughter to the team, and does so with a better sense of style than most of us! Please enjoy the interview and look forward to more content coming soon! [embedyt] https://www.youtube.com/watch?v=nhVQryu3P7M[/embedyt] Read More"
+      },
+      {
+        "title": "“Just a Thought”",
+        "link": "https://thejoxelgroup.com/just-a-thought/",
+        "date": "September 21, 2021",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/Just-a-Thought-Header-1-300x300.jpg",
+        "excerpt": "People make decisions daily. What to wear, where to eat, which task to start first, what to say, and how to respond, just to name a few. Regardless of where you lay your head at night, the first decision of the day is whether to get out of bed. Why do you decide to get out of bed? What pushes you to do so? As morning arrives and you begin to stir, you lay there with your eyes open, or with your eyes closed. You lay there, partially awake, and then it happens. What happens you ask? Thoughts and questions happen. Thoughts and questions begin bouncing around in your head and these thoughts and questions, typically fall into two categories:... Read More"
+      },
+      {
+        "title": "Vaccinated? Back to the Office!",
+        "link": "https://thejoxelgroup.com/vaccinated-back-to-the-office/",
+        "date": "June 9, 2021",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/DA56EF46-C3ED-4A26-9F96-7C15299515D5-300x169.jpg",
+        "excerpt": "Vaccinated? Back to the Office! With vaccination statistics rising and inoculation allowing most of us to return to a level of pre-COVID normality, we find ourselves facing a new albeit minor crisis; how to reintegrate back into office culture and public life at large. While this may seem like a simple adjustment, the transition will prove more difficult than one might assume, due to a variety of health concerns, both physical and behavioral. COVID-19 has changed our cultural approach in a variety of ways; we find ourselves collectively more aware of viral transmission then ever before and are subsequently wary of close, personal interaction sans masks. This proves problematic due to the reduction in ability to read faces and... Read More"
+      },
+      {
+        "title": "The Benefits of Data Warehouses",
+        "link": "https://thejoxelgroup.com/the-benefits-of-data-warehouses/",
+        "date": "June 1, 2021",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/circuit-board-27452-1920x1080-1-300x169.jpg",
+        "excerpt": "The Benefits of Data Warehouses Data is one of our client’s most important resources and thus, the maintenance of a secure, optimized, scalable, integrated and accessible system should be the highest priority. Integrating data from various sources available to an organization will assist in performing analysis and reporting, as well as to accelerate business growth and help Leadership analyze past, present and future state. Let us discuss the journey of fictional healthcare organization HealthABC into a Data Warehouse standard. HealthABC offers a variety of Health Care, Behavioral Health, Substance Abuse, Case Management and Homeless Outreach programs to some of city’s most vulnerable patients. These programs use separate systems to track different types of data for disparate purposes; this makes reporting and... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Neel Eswara",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-neel-eswara/",
+        "date": "March 29, 2021",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/Neel-240x300.jpg",
+        "excerpt": "Eswara (Neel) Neelakantan is one of our senior team members. Neel has been with The Joxel Group for 12 years. Neel has a diplomatic approach that is infectious. We can always count on Neel to make sure all sides of a situation are carefully explored. This diplomatic approach enhances his ability to listen, understand, execute, and surpass a client’s expectation. Complementing this diplomatic approach is a wealth of people, technical, and analytical knowledge. Here are a few more tidbits about our team’s “honorary” diplomat: What prompted you to go into the Technology industry? Growing up, I loved math and creative thinking. When I was introduced to the computer, it helped me to further explore my areas of interest. I am... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Jerry Vandre",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-jerry-vandre/",
+        "date": "January 18, 2021",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/JerryV.jpg",
+        "excerpt": "Jerome (Jerry) Vandre joined the Joxel Team over 5 years ago. He has an air of calm, humility, a concern for others and a resolve about him, that is truly genuine. Its these qualities along with his multiple technical skill sets and knowledge which allows him to continue to be a positive influence on our team and with our clients. Now join me in leaning a bit more about Jerry. What prompted you to go into the Technology/Software Development industry? The launch of the World Wide Web to the public and the opportunities it presented for communication and information accessed across the World. How has your previous IT experiences helped you in your role as a Senior Software Developer at... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Cheryl Wunsch",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-cheryl-wunsch/",
+        "date": "July 13, 2020",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/CW-Image.jpg",
+        "excerpt": "Cheryl Wunsch joined our team in September of 2019 and from the outset, she has had and continues to have a positive impact within our company and for our clients. Cheryl’s positive and compassionate attitude towards people, her multiple technical skill sets, and wealth of knowledge makes her a great addition to our team and a pleasure to work with. Now, let us find out a bit more about Cheryl. What prompted you to go into the Information Technology Industry? I have always loved math and solving problems. When I took my first computer class in high school, I was hooked. How have your previous experiences helped you in your role as a Business Intelligence Analyst at The Joxel... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Chris Rowoldt",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-chris-rowoldt/",
+        "date": "May 5, 2020",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/ChrisRowoldtPhoto.jpg",
+        "excerpt": "As a company, we have been extremely fortunate, to have several individuals join our team that fit and embrace our company’s culture and mission. Chris Rowoldt is one of those individuals. Chris joined our company in January of 2020. He brings professionalism, knowledge, technical skillset, and most identifiable a calming confidence that fits quite comfortably with our IT team and clients. His impact on the team and our clients is already having a significant impact that has been embraced by our team and clients. Let us now get to know a little bit more about Chris. What prompted you to go into the technology field? I have loved technology since I was a kid, and always knew it was going... Read More"
+      },
+      {
+        "title": "Making Working from Home Work for You",
+        "link": "https://thejoxelgroup.com/making-working-from-home-work-for-you/",
+        "date": "March 30, 2020",
+        "cats": [
+          "Joxel Blog"
+        ],
+        "img": "assets/img/Blog-300x173.jpg",
+        "excerpt": "At the Joxel Group, our team is comprised of skilled consultants that collaborate with clients locally and nationwide. Our consultants assist our clients with Electronic Health Record implementations, EHR optimizations, process improvement, custom development and/or specialized IT support. With the rapid increase of COVID-19 cases in the United States, our company quickly cancelled all travel, closed our office locations and transitioned all employees to telecommuting. Although we made these decisions quickly, they were easy decisions. Plain and simple, the safety of our clients, employees and communities we serve comes first. As consultants, we already had the infrastructure for telecommuting in place and since we often leverage technology to conduct meetings, provide training, etc. there has been little to no impact to our clients. So, at this point you’re likely asking, “How has telecommuting really impacted... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Corey Neuman",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-corey-neuman/",
+        "date": "March 27, 2020",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/CN-Pic-225x300.jpeg",
+        "excerpt": "Corey has been a member of our Joxel team for a little over a month and is already having a significant positive impact on our company. Corey brings a contagious positivity that’s beneficial to all who are around him. Corey undoubtedly has a willingness to jump in and assist where he is needed, which is in addition to his project manager duties. Corey’s diverse knowledge and skill set give him this versatility. We are so happy to have him as part of our team. Let’s take a moment to learn a bit more about our newest Joxel family member, Corey Neuman. What prompted you to go into the Healthcare Industry, i.e. Project Management? Interest in analyzing vast swaths of data... Read More"
+      },
+      {
+        "title": "Joxel Spotlight – Busby Sanders III",
+        "link": "https://thejoxelgroup.com/joxel-spotlight-busby-sanders-iii/",
+        "date": "December 20, 2019",
+        "cats": [
+          "Joxel Spotlights"
+        ],
+        "img": "assets/img/BSIII-Profile-Pic.jpg",
+        "excerpt": "Busby Sanders III, is one of the newest members of our Joxel Family. Busby has been with The Joxel Group for less than six months and is already having a positive impact on our entire team and our clients. Busby’s personality and technical skills have melded very well with our technical team and is adding to our technical team’s consistent ability to meet and exceed our client’s expectations. Busby serves in the position of Data and Reporting Analyst for our company. Now let’s find out a bit more about Busby. What prompted you to go into the technology field? I would have to thank my father for this. He was such a great father figure and I wanted to be... Read More"
+      }
+    ],
+    "categories": [
+      "Healthcare Solutions",
+      "Electronic Health Records",
+      "Joxel Blog",
+      "Joxel Spotlights"
+    ],
+    "archives": [
+      "May 2024",
+      "September 2023",
+      "January 2022",
+      "October 2021",
+      "September 2021",
+      "June 2021",
+      "March 2021",
+      "January 2021",
+      "July 2020",
+      "May 2020",
+      "March 2020",
+      "December 2019"
+    ]
+  },
+  "homeCards": [
+    {
+      "title": "Healthcare Consulting",
+      "text": "Joxel's Healthcare consultants have expertise in IT and healthcare. Our experts are often brought into organizations to examine and address"
+    },
+    {
+      "title": "Strategic Consulting",
+      "text": "As the healthcare industry grows increasingly complex, organizations are seeking outsourced solutions to help balance their strategic priorities and day-to-day"
+    },
+    {
+      "title": "Strategic Services",
+      "text": "At Joxel, we are continuously looking for solutions to meet our clients' needs and provide quality solutions. Joxel can provide"
+    }
+  ],
+  "community": {
+    "images": [
+      {
+        "src": "assets/img/There-Is-Hope.jpg",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/Million-Meals-Challenge-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/Million-Meals-Challenge-2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/AtTheVan-1024x768.jpg",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/CHW_BARW_header_logo.png",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/logo_mequon_nature_preserve.jpg",
+        "alt": "Mequon Nature Preserve Logo"
+      },
+      {
+        "src": "assets/img/logo-milwaukee-rescue-mission.png",
+        "alt": "Milwaukee Rescue Mission Logo"
+      },
+      {
+        "src": "assets/img/Paralyzed_Veterans.jpg",
+        "alt": ""
+      },
+      {
+        "src": "assets/img/ISHA.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "clientLogos": [
+    {
+      "src": "assets/img/Brown-County.jpg",
+      "alt": "Brown County"
+    },
+    {
+      "src": "assets/img/Fond-du-Lac-Logo.jpg",
+      "alt": "Fond du Lac County"
+    },
+    {
+      "src": "assets/img/LSS-Logo-1.jpg",
+      "alt": "Lutheran Social Services"
+    },
+    {
+      "src": "assets/img/MC-Logo.jpg",
+      "alt": "Milwaukee County"
+    },
+    {
+      "src": "assets/img/Sauk-County-Logo.png",
+      "alt": "Sauk County"
+    },
+    {
+      "src": "assets/img/Sauk-County-Logo.png",
+      "alt": "Sauk County"
+    },
+    {
+      "src": "assets/img/WC-Logo-1.png",
+      "alt": "Waukesha County"
+    }
+  ]
+}
