@@ -306,7 +306,7 @@ function serviceHub(svc) {
   const cards = METROS.map((m, i) => `
     <a class="card" href="${url(locSlug(svc, m))}" data-reveal data-delay="${i % 3}" style="padding:1.2rem 1.4rem">
       <div style="display:flex;align-items:center;gap:.7rem">
-        <span class="tick" style="background:rgba(107,138,122,.14)">${icon('pin')}</span>
+        <span class="tick" style="background:rgba(14,124,116,.14)">${icon('pin')}</span>
         <div><strong style="color:var(--heading)">${esc(m.city)}, ${m.abbr}</strong><div class="muted" style="font-size:.82rem">${esc(m.metro)}</div></div>
       </div>
     </a>`).join('');

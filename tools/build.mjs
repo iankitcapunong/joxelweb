@@ -217,7 +217,7 @@ pages['index'] = () => {
   </div>
 </section>
 
-<section class="section" style="background:linear-gradient(180deg,transparent,var(--bg-tint))">
+<section class="section" style="background:linear-gradient(180deg,transparent,var(--sec-tint))">
   <div class="container">
     <div class="grid" style="grid-template-columns:repeat(3,1fr)">
       ${cards.map((c, idx) => `
@@ -242,7 +242,7 @@ pages['index'] = () => {
   </div>
 </section>
 
-<section class="section" style="background:var(--bg-tint)">
+<section class="section" style="background:var(--sec-tint)">
   <div class="container wide">
     <div class="section-head center" data-reveal>
       <span class="eyebrow center">Client Testimonials</span>
@@ -272,7 +272,7 @@ pages['index'] = () => {
   </div>
 </section>
 
-<section class="section" style="background:linear-gradient(180deg,var(--bg-tint),transparent)">
+<section class="section" style="background:linear-gradient(180deg,var(--sec-tint),transparent)">
   <div class="container wide">
     <div class="section-head" data-reveal style="display:flex;justify-content:space-between;align-items:flex-end;max-width:none;gap:1rem;flex-wrap:wrap">
       <div><span class="eyebrow">Latest Posts</span><h2>Insights from our team</h2></div>
@@ -419,7 +419,7 @@ ${banner('about-us', 'About Us')}
   </div>
 </section>
 
-<section class="section" style="background:var(--bg-tint)">
+<section class="section" style="background:var(--sec-tint)">
   <div class="container">
     <div class="split rev" data-reveal>
       <div class="split-media"><img src="assets/img/Strategic_Consulting_B.jpg" alt="Our Focus"></div>
@@ -508,7 +508,7 @@ function leaderPage(t) {
     </div>
   </div>
 </section>
-<section class="section tight" style="background:var(--bg-tint)">
+<section class="section tight" style="background:var(--sec-tint)">
   <div class="container wide">
     <div class="section-head" data-reveal><span class="eyebrow">Leadership</span><h2>Meet the rest of the team</h2></div>
     <div class="team-grid">
@@ -547,7 +547,7 @@ ${banner('joxel-365', 'Joxel 365', 'Giving back to the communities we serve — 
     <div class="gallery">${gallery}</div>
   </div>
 </section>
-<section class="section" style="background:var(--bg-tint)">
+<section class="section" style="background:var(--sec-tint)">
   <div class="container narrow center">
     <div class="card tinted" data-reveal style="text-align:center">
       <div class="card-icon" style="margin-inline:auto">${icon('globe')}</div>
@@ -572,7 +572,7 @@ ${banner('client-testimonials', 'Client Testimonials', 'Hear directly from the o
     <div class="gallery" style="grid-template-columns:repeat(auto-fill,minmax(150px,1fr))">${logoGrid}</div>
   </div>
 </section>
-<section class="section" style="background:var(--bg-tint);padding-top:clamp(2rem,4vw,3rem)">
+<section class="section" style="background:var(--sec-tint);padding-top:clamp(2rem,4vw,3rem)">
   <div class="container wide">
     <div class="grid" style="grid-template-columns:repeat(3,1fr)">${tCards}</div>
   </div>

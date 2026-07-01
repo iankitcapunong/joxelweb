@@ -28,6 +28,7 @@
   /* Semantic */
   --bg:          var(--beige);
   --bg-tint:     #E4EEEC;
+  --sec-tint:    rgba(26,163,206,.09);   /* translucent brand wash for section blends */
   --heading:     #213139;
   --footer-bg:   #0C3E3A;   /* deep teal */
   --footer-ink:  #D5E7E3;
@@ -71,7 +72,13 @@ html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 body {
   font-family: var(--font-sans);
   color: var(--ink);
-  background: var(--bg);
+  background:
+    radial-gradient(1100px 640px at 100% -8%, rgba(26,163,206,.13), transparent 60%),
+    radial-gradient(900px 620px at -12% 16%, rgba(14,124,116,.11), transparent 58%),
+    radial-gradient(760px 620px at 18% 62%, rgba(39,49,126,.06), transparent 55%),
+    radial-gradient(1000px 760px at 108% 88%, rgba(26,163,206,.10), transparent 55%),
+    var(--bg);
+  background-attachment: fixed;
   line-height: 1.65;
   font-size: 1.02rem;
   -webkit-font-smoothing: antialiased;
