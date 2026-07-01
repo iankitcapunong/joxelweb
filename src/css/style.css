@@ -311,6 +311,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
 
 @media (max-width: 1240px) {
   .nav-menu, .nav-cta .btn { display: none; }
+  .nav-cta { margin-left: auto; }
   .nav-toggle { display: inline-flex; align-items: center; justify-content: center; width: 46px; height: 46px; border-radius: var(--r-sm); background: var(--cream-2); }
 }
 
