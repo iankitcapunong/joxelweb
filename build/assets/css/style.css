@@ -208,18 +208,19 @@ strong { color: var(--ink); font-weight: 600; }
   transition: box-shadow .4s, background .4s, border-color .4s;
 }
 .site-header.scrolled { box-shadow: var(--sh-1); border-color: var(--gray-line); background: rgba(251,248,241,.9); }
-.nav { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; min-height: 78px; }
+.nav { display: flex; align-items: center; gap: clamp(1rem, 2.2vw, 2.2rem); min-height: 84px; }
 .brand { display: inline-flex; align-items: center; gap: .7rem; flex: none; z-index: 2; }
 .brand img { height: 42px; width: auto; transition: transform .4s var(--ease-out); }
 .brand:hover img { transform: scale(1.04); }
 
-.nav-menu { display: flex; align-items: center; gap: .1rem; }
+.nav-menu { display: flex; align-items: center; gap: .15rem; margin-inline: auto; }
 .nav-item { position: relative; }
 .nav-link {
-  display: inline-flex; align-items: center; gap: .3rem; white-space: nowrap;
-  padding: .7rem .72rem; font-weight: 500; font-size: .92rem; color: var(--ink);
+  display: inline-flex; align-items: center; gap: .32rem; white-space: nowrap;
+  padding: .68rem .9rem; font-weight: 500; font-size: .93rem; color: var(--ink);
   border-radius: var(--r-pill); transition: color .25s, background .25s;
 }
+.nav-item:hover > .nav-link { background: var(--bg-tint); }
 .nav-link .caret { width: 12px; height: 12px; transition: transform .3s var(--ease-out); opacity: .6; }
 .nav-item:hover > .nav-link,
 .nav-link.active { color: var(--sage-deep); }
@@ -296,7 +297,7 @@ body.menu-open .hamburger span:nth-child(1) { transform: translateY(8px) rotate(
 body.menu-open .hamburger span:nth-child(2) { opacity: 0; }
 body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate(-45deg); }
 
-@media (max-width: 1180px) {
+@media (max-width: 1240px) {
   .nav-menu, .nav-cta .btn { display: none; }
   .nav-toggle { display: inline-flex; align-items: center; justify-content: center; width: 46px; height: 46px; border-radius: var(--r-sm); background: var(--cream-2); }
 }
