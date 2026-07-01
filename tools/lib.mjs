@@ -261,7 +261,7 @@ export function layout({ slug, title, desc, bodyClass = '', main, jsonld = '' })
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
-<meta name="theme-color" content="#6B8A7A">
+<meta name="theme-color" content="#0E7C74">
 <link rel="canonical" href="https://thejoxelgroup.com/${slug === 'index' ? '' : slug + '.html'}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="${esc(title)}">

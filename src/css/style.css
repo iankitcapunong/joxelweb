@@ -5,32 +5,32 @@
 
 /* ----------  Design Tokens  ---------- */
 :root {
-  /* Brand palette (soft, sophisticated) */
-  --sage:        #6B8A7A;   /* primary   */
-  --sage-deep:   #4F6B5D;
-  --sage-soft:   #8BA697;
-  --blue:        #7DA0B6;   /* secondary */
-  --blue-deep:   #5E829A;
-  --bronze:      #A67C52;   /* accent    */
-  --bronze-soft: #C29A73;
+  /* Brand palette — derived from The Joxel Group logo (teal · navy · cyan) */
+  --sage:        #0E7C74;   /* primary  — logo teal-green wordmark */
+  --sage-deep:   #0A5A54;
+  --sage-soft:   #5AA69F;
+  --blue:        #1AA3CE;   /* secondary — logo bright cyan */
+  --blue-deep:   #27317E;   /* logo navy/indigo swoosh */
+  --bronze:      #147F9E;   /* accent — deepened cyan (echoes the tagline) */
+  --bronze-soft: #7CC8DE;
 
-  --beige:       #F2EDE3;   /* soft background */
-  --cream:       #FBF8F1;   /* card surface (never pure white) */
-  --cream-2:     #F6F1E7;
-  --surface:     #DCE3DD;   /* neutral surface */
-  --gray:        #A8B2B1;   /* elegant gray   */
-  --gray-line:   #E4DED2;
+  --beige:       #EFF4F3;   /* soft cool background (never pure white) */
+  --cream:       #FBFDFC;   /* card surface */
+  --cream-2:     #F0F6F5;
+  --surface:     #D9E5E3;   /* neutral surface */
+  --gray:        #9FB0AE;   /* elegant cool gray */
+  --gray-line:   #DCE7E4;
 
-  --ink:         #4A5560;   /* text primary   */
-  --ink-2:       #6B7280;   /* text secondary */
-  --ink-3:       #8A93A0;
+  --ink:         #33434C;   /* text primary (cool slate) */
+  --ink-2:       #5B6A72;   /* text secondary */
+  --ink-3:       #849499;
 
   /* Semantic */
   --bg:          var(--beige);
-  --bg-tint:     #ECE7DA;
-  --heading:     #3C4650;
-  --footer-bg:   #3B4A44;
-  --footer-ink:  #DCE6DF;
+  --bg-tint:     #E4EEEC;
+  --heading:     #213139;
+  --footer-bg:   #0C3E3A;   /* deep teal */
+  --footer-ink:  #D5E7E3;
 
   /* Typography */
   --font-serif: "Fraunces", "Cormorant Garamond", Georgia, serif;
@@ -47,7 +47,7 @@
   --sh-1: 0 1px 2px rgba(60,70,80,.04), 0 4px 12px rgba(60,70,80,.05);
   --sh-2: 0 4px 10px rgba(60,70,80,.05), 0 18px 40px -12px rgba(60,70,80,.14);
   --sh-3: 0 10px 24px rgba(60,70,80,.08), 0 40px 80px -24px rgba(60,70,80,.22);
-  --sh-glow: 0 20px 60px -20px rgba(107,138,122,.45);
+  --sh-glow: 0 20px 60px -20px rgba(14,124,116,.45);
 
   /* Motion */
   --ease: cubic-bezier(.22,.61,.36,1);
@@ -129,9 +129,9 @@ strong { color: var(--ink); font-weight: 600; }
 
 /* Decorative frosted gradient blobs */
 .blob { position: absolute; border-radius: 50%; filter: blur(70px); opacity: .5; z-index: 0; pointer-events: none; }
-.blob.sage  { background: radial-gradient(circle, rgba(107,138,122,.55), transparent 70%); }
-.blob.blue  { background: radial-gradient(circle, rgba(125,160,182,.5), transparent 70%); }
-.blob.bronze{ background: radial-gradient(circle, rgba(166,124,82,.35), transparent 70%); }
+.blob.sage  { background: radial-gradient(circle, rgba(14,124,116,.55), transparent 70%); }
+.blob.blue  { background: radial-gradient(circle, rgba(26,163,206,.5), transparent 70%); }
+.blob.bronze{ background: radial-gradient(circle, rgba(26,163,206,.35), transparent 70%); }
 .section > .container { position: relative; z-index: 1; }
 
 /* ==========================================================================
@@ -163,9 +163,9 @@ strong { color: var(--ink); font-weight: 600; }
 
 .btn.ghost {
   background: transparent; color: var(--sage-deep);
-  box-shadow: inset 0 0 0 1.5px rgba(107,138,122,.5);
+  box-shadow: inset 0 0 0 1.5px rgba(14,124,116,.5);
 }
-.btn.ghost:hover { background: rgba(107,138,122,.08); box-shadow: inset 0 0 0 1.5px var(--sage); }
+.btn.ghost:hover { background: rgba(14,124,116,.08); box-shadow: inset 0 0 0 1.5px var(--sage); }
 .btn.light { background: var(--cream); color: var(--sage-deep); }
 .btn.bronze { --btn-bg: var(--bronze); }
 .btn.sm { padding: .7rem 1.3rem; font-size: .88rem; }
@@ -319,7 +319,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
   aspect-ratio: 5/4;
 }
 .hero-figure img { width: 100%; height: 100%; object-fit: cover; object-position: 88% center; }
-.hero-figure::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 55%, rgba(75,107,93,.35)); }
+.hero-figure::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 55%, rgba(10,90,84,.35)); }
 .hero-frame { position: absolute; inset: 0; border-radius: var(--r-xl); box-shadow: inset 0 0 0 1px rgba(255,255,255,.18); pointer-events: none; }
 
 /* Floating chips */
@@ -350,7 +350,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
    Page banner (inner pages)
    ========================================================================== */
 .page-banner { position: relative; overflow: hidden; padding-block: clamp(3.5rem, 7vw, 6.5rem) clamp(2.5rem, 5vw, 4rem); background: linear-gradient(160deg, var(--bg-tint), var(--beige)); }
-.page-banner::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(circle at 85% -10%, rgba(125,160,182,.22), transparent 45%), radial-gradient(circle at 0% 120%, rgba(107,138,122,.2), transparent 45%); }
+.page-banner::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(circle at 85% -10%, rgba(26,163,206,.22), transparent 45%), radial-gradient(circle at 0% 120%, rgba(14,124,116,.2), transparent 45%); }
 .page-banner .container { position: relative; z-index: 1; }
 .breadcrumbs { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; font-size: .82rem; color: var(--ink-3); margin-bottom: 1.2rem; }
 .breadcrumbs a { transition: color .25s; } .breadcrumbs a:hover { color: var(--sage-deep); }
@@ -370,7 +370,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
   transition: transform .5s var(--ease-out), box-shadow .5s var(--ease-out), border-color .5s;
   overflow: hidden;
 }
-.card:hover { transform: translateY(-6px); box-shadow: var(--sh-3); border-color: rgba(107,138,122,.35); }
+.card:hover { transform: translateY(-6px); box-shadow: var(--sh-3); border-color: rgba(14,124,116,.35); }
 .card-icon {
   width: 56px; height: 56px; border-radius: 16px; display: grid; place-items: center;
   background: linear-gradient(140deg, var(--sage), var(--sage-deep)); color: var(--cream);
@@ -410,7 +410,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
    ========================================================================== */
 .check-list { display: grid; gap: .85rem; }
 .check-list li { display: flex; gap: .85rem; align-items: flex-start; color: var(--ink); line-height: 1.55; }
-.check-list li .tick { flex: none; width: 26px; height: 26px; border-radius: 8px; display: grid; place-items: center; background: rgba(107,138,122,.14); color: var(--sage-deep); margin-top: .1rem; }
+.check-list li .tick { flex: none; width: 26px; height: 26px; border-radius: 8px; display: grid; place-items: center; background: rgba(14,124,116,.14); color: var(--sage-deep); margin-top: .1rem; }
 .check-list li .tick .ico { width: 15px; height: 15px; }
 .check-list.two { grid-template-columns: 1fr 1fr; }
 @media (max-width: 640px) { .check-list.two { grid-template-columns: 1fr; } }
@@ -581,7 +581,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
   padding: clamp(2.6rem, 6vw, 4.6rem); text-align: center; color: var(--cream);
   box-shadow: var(--sh-3);
 }
-.cta-inner::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(circle at 15% 20%, rgba(255,255,255,.14), transparent 40%), radial-gradient(circle at 85% 90%, rgba(166,124,82,.3), transparent 45%); }
+.cta-inner::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(circle at 15% 20%, rgba(255,255,255,.14), transparent 40%), radial-gradient(circle at 85% 90%, rgba(26,163,206,.3), transparent 45%); }
 .cta-inner > * { position: relative; z-index: 1; }
 .cta-inner .eyebrow { color: var(--bronze-soft); }
 .cta-inner h2 { color: #fff; max-width: 20ch; margin-inline: auto; margin-bottom: 1.2rem; }
@@ -611,13 +611,13 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
   background: var(--bg); border: 1px solid var(--gray-line); border-radius: var(--r-sm);
   transition: border-color .25s, box-shadow .25s, background .25s;
 }
-.field input:focus, .field textarea:focus { outline: none; border-color: var(--sage); box-shadow: 0 0 0 4px rgba(107,138,122,.12); background: var(--cream); }
+.field input:focus, .field textarea:focus { outline: none; border-color: var(--sage); box-shadow: 0 0 0 4px rgba(14,124,116,.12); background: var(--cream); }
 .field textarea { min-height: 140px; resize: vertical; }
 .choice-group { display: flex; flex-wrap: wrap; gap: .6rem; }
 .choice { position: relative; }
 .choice input { position: absolute; opacity: 0; }
 .choice label { display: inline-flex; align-items: center; gap: .5rem; padding: .55rem 1rem; border: 1px solid var(--gray-line); border-radius: var(--r-pill); font-size: .9rem; font-weight: 500; color: var(--ink-2); cursor: pointer; margin: 0; transition: all .25s; }
-.choice input:checked + label { border-color: var(--sage); background: rgba(107,138,122,.1); color: var(--sage-deep); }
+.choice input:checked + label { border-color: var(--sage); background: rgba(14,124,116,.1); color: var(--sage-deep); }
 
 /* ==========================================================================
    Values / promise
@@ -641,7 +641,7 @@ body.menu-open .hamburger span:nth-child(3) { transform: translateY(-8px) rotate
    Footer
    ========================================================================== */
 .site-footer { background: var(--footer-bg); color: var(--footer-ink); position: relative; overflow: hidden; margin-top: 2rem; }
-.site-footer::before { content: ""; position: absolute; top: -30%; right: -10%; width: 500px; height: 500px; background: radial-gradient(circle, rgba(107,138,122,.4), transparent 65%); filter: blur(60px); }
+.site-footer::before { content: ""; position: absolute; top: -30%; right: -10%; width: 500px; height: 500px; background: radial-gradient(circle, rgba(14,124,116,.4), transparent 65%); filter: blur(60px); }
 .footer-main { position: relative; display: grid; grid-template-columns: 1.6fr 1fr 1fr 1.2fr; gap: clamp(1.6rem, 3vw, 2.6rem); padding-block: clamp(3rem, 6vw, 5rem) 2.6rem; }
 @media (max-width: 900px) { .footer-main { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 520px) { .footer-main { grid-template-columns: 1fr; } }
