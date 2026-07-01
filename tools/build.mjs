@@ -782,7 +782,7 @@ for (const slug of Object.keys(build)) {
 /* sitemap + robots */
 const today = '2026-07-01';
 const sm = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">\n` +
-  Object.keys(build).map(s => `  <url><loc>https://thejoxelgroup.com/${s === 'index' ? '' : s + '/'}</loc><lastmod>${today}</lastmod></url>`).join('\n') +
+  Object.keys(build).map(s => `  <url><loc>https://thejoxelgroup.com/${s === 'index' ? '' : s + '.html'}</loc><lastmod>${today}</lastmod></url>`).join('\n') +
   `\n</urlset>\n`;
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), sm);
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: https://thejoxelgroup.com/sitemap.xml\n`);

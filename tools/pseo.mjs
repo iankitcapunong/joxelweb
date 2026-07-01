@@ -110,7 +110,7 @@ const hash = s => { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + 
 const pick = (arr, seed) => arr[seed % arr.length];
 const tierPhrase = t => t <= 5 ? 'one of the five largest metro areas' : t <= 10 ? 'one of the ten largest metro areas' : t <= 15 ? 'one of the fifteen largest metro areas' : 'a major metropolitan market';
 
-const CANON = slug => `https://thejoxelgroup.com/${slug}/`;
+const CANON = slug => `https://thejoxelgroup.com/${slug}.html`;
 
 /* ---------- content variants ---------- */
 function introPara(svc, m, seed) {
