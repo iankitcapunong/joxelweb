@@ -154,7 +154,7 @@ pages['index'] = () => {
   const tCards = DATA.testimonials.slice(0, 6).map((t, idx) => testimonialCard(t, idx)).join('');
   const posts = DATA.blog.posts.slice(0, 3).map((p, idx) => postCard(p, idx)).join('');
   const logos = DATA.clientLogos.filter((v, i, a) => a.findIndex(x => x.src === v.src) === i);
-  const logoRow = [...logos, ...logos].map(l => `<img src="${l.src}" alt="${esc(l.alt || 'Client logo')}">`).join('');
+  const logoRow = [...logos, ...logos, ...logos].map(l => `<img src="${l.src}" alt="${esc(l.alt || 'Client logo')}">`).join('');
 
   const jsonld = JSON.stringify({
     '@context': 'https://schema.org', '@type': 'Organization',
@@ -192,9 +192,9 @@ pages['index'] = () => {
 
 <section class="section tight" style="padding-top:0">
   <div class="container wide">
-    <p class="center muted" style="font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;margin-bottom:1.6rem" data-reveal>Trusted by leading organizations</p>
-    <div class="logo-strip" data-reveal><div class="logo-track">${logoRow}</div></div>
+    <p class="center muted" style="font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;margin-bottom:2rem" data-reveal>Trusted by leading organizations</p>
   </div>
+  <div class="logo-strip full-bleed" data-reveal><div class="logo-track">${logoRow}</div></div>
 </section>
 
 <section class="section">
