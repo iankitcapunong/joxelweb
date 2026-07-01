@@ -213,11 +213,11 @@ strong { color: var(--ink); font-weight: 600; }
 .brand img { height: 42px; width: auto; transition: transform .4s var(--ease-out); }
 .brand:hover img { transform: scale(1.04); }
 
-.nav-menu { display: flex; align-items: center; gap: .15rem; margin-inline: auto; }
+.nav-menu { display: flex; align-items: center; gap: clamp(.4rem, 1.1vw, 1.1rem); margin-inline: auto; }
 .nav-item { position: relative; }
 .nav-link {
   display: inline-flex; align-items: center; gap: .32rem; white-space: nowrap;
-  padding: .68rem .9rem; font-weight: 500; font-size: .93rem; color: var(--ink);
+  padding: .6rem .6rem; font-weight: 500; font-size: .93rem; color: var(--ink);
   border-radius: var(--r-pill); transition: color .25s, background .25s;
 }
 .nav-item:hover > .nav-link { background: var(--bg-tint); }
